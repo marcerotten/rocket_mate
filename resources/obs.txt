@@ -1,0 +1,1456 @@
+<page>
+  <title>Observatorio Logístico</title>
+  <url>https://observatoriologistico.cl</url>
+  <content>Busca en el principal repositorio de datos sobre logística en Chile
+-------------------------------------------------------------------
+
+Panorama de la logística en el ámbito nacional
+----------------------------------------------
+
+¿Qué dicen los datos?
+
+La logística entendida como el desplazamiento de productos de modo ordenado y eficiente, posibilita el intercambio de bienes entre consumidores y proveedores, impactando a millones de chilenos. Nuestro objetivo es proveer datos y contenidos de calidad que permitan tomar decisiones informadas en el sector.
+
+\* Las siguientes cifras son las más recientes disponibles. Se actualizan periódicamente.
+
+Cantidad empresas logísticas
+
+### 92.404
+
+empresas con actividad económica relacionada a la logística en 2023
+
+Un 19% de aumento en los últimos 5 años.
+
+Participación de trabajadoras mujeres en logística
+
+### 18%
+
+del total de trabajadores son mujeres, el año 2023
+
+La proporción se ha mantenido relativamente constante en los últimos 5 años con valores entre 16% y 18%.
+
+Estudiantes matriculados en carreras logísticas
+
+### 12.154
+
+estudiantes se matricularon en 1er año en carreras asociadas al sector logístico, el año 2024
+
+Un 11% más comparado al año anterior.
+
+Cantidad de trabajadores en mipymes logísticas
+
+### 49%
+
+de los trabajadores lo hace en MiPyMES, según datos de 2023
+
+El total de trabajadores ese año fue 251.770.
+
+Modo principal para las cargas de comercio exterior
+
+### 91%
+
+del total de estas cargas el año 2023 fueron transportadas por vía marítima, fluvial y lacustre
+
+El total de carga de comercio exterior fue de 123,6 millones de toneladas.
+
+Barcos extranjeros diarios atendidos en puertos nacionales
+
+### 18
+
+naves extranjeras diarias promedio son atendidas en los puertos chilenos, según datos de 2023
+
+Un 0,4% más comparado al año anterior.
+
+Camiones diarios con carga de comercio exterior
+
+### 2.902
+
+camiones diarios promedio ingresan o salen del país por los pasos fronterizos, según datos de 2024
+
+Un -4% menos que el año anterior.
+
+Inscripción anual de vehículos de carga
+
+### 314.569
+
+vehículos de carga inscritos el año 2024
+
+Un -4% menos comparado al año anterior.
+
+Destacamos
+----------</content>
+</page>
+
+<page>
+  <title>Logística carretera | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/categorias/logistica_carretera</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Logística ferroviaria | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/categorias/logistica_ferroviaria</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Logística urbana | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/categorias/logistica_urbana</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Logística marítima | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/categorias/logistica_maritima</url>
+  <content>1.  [](https://observatoriologistico.cl/)
+2.  Logística Marítima
+    
+
+La logística marítima corresponde al traslado de mercancías a bordo de embarcaciones por vía marítima.
+
+*   [1](https://observatoriologistico.cl/categorias/logistica_maritima?f%5B0%5D=categories%3ALog%C3%ADstica%20mar%C3%ADtima&page=0)
+*   [2](https://observatoriologistico.cl/categorias/logistica_maritima?f%5B0%5D=categories%3ALog%C3%ADstica%20mar%C3%ADtima&page=1)
+*   [3](https://observatoriologistico.cl/categorias/logistica_maritima?f%5B0%5D=categories%3ALog%C3%ADstica%20mar%C3%ADtima&page=2)
+
+Lo más visto
+------------
+
+### **Toneladas transferidas por puertos estatales mensualizado**
+
+*   **Actualizado:** 19/03/2025
+*   **Fuente:** Programa de Desarrollo Logístico, MTT
+*   **Zona geográfica:** País
+
+### Contenedores transferidos en terminales estatales mensualizado
+
+Cantidad mensual de contenedores transferidos en puertos estatales, según tamaño, condición y tipo de contenedor.
+
+*   **Fuente:** Programa de Desarrollo Logístico, MTT
+*   **Zona geográfica:** País
+
+### Tamaño máximo de lote (TEU) transferido en puertos estatales
+
+Número máximo de TEUs que fueron transferidos por una nave entre todas las naves que atracaron en el puerto en un año.
+
+*   **Fuente:** Programa de Desarrollo Logístico, MTT
+*   **Zona geográfica:** País
+
+### Contenedores transferidos en terminales estatales
+
+Cantidad anual de contenedores transferidos en puertos estatales, según tamaño, condición y tipo de contenedor.
+
+*   **Fuente:** Programa de Desarrollo Logístico, MTT
+*   **Zona geográfica:** País
+
+### Toneladas transferidas en terminales estatales
+
+Toneladas anuales de carga transferida por puertos estatales, según tipo de carga.
+
+*   **Fuente:** Programa de Desarrollo Logístico, MTT
+*   **Zona geográfica:** País
+
+### Indicadores operacionales en puertos estatales
+
+Corresponde a indicadores de operación de las empresas portuarias estatales, desagregado por empresa portuaria y tipo de carga.
+
+*   **Fuente:** Programa de Desarrollo Logístico, MTT
+*   **Zona geográfica:** País
+
+### Toneladas transferidas por puertos estatales mensualizado
+
+Toneladas transferidas por terminales portuarios estatales de Chile mensualizado.
+
+*   **Fuente:** Programa de Desarrollo Logístico, MTT
+*   **Zona geográfica:** País
+
+*   [1](https://observatoriologistico.cl/categorias/logistica_maritima?f%5B0%5D=categories%3ALog%C3%ADstica%20mar%C3%ADtima&page=0)
+*   [2](https://observatoriologistico.cl/categorias/logistica_maritima?f%5B0%5D=categories%3ALog%C3%ADstica%20mar%C3%ADtima&page=1)
+*   [3](https://observatoriologistico.cl/categorias/logistica_maritima?f%5B0%5D=categories%3ALog%C3%ADstica%20mar%C3%ADtima&page=2)</content>
+</page>
+
+<page>
+  <title>Logística aérea | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/categorias/logistica_aerea</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Comercio exterior | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/categorias/comercio-exterior</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Energía y medioambiente | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/categorias/energia_y_medioambiente</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Capital humano | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/categorias/capital_humano</url>
+  <content>### Estudiantes matriculados en carreras de educación superior asociadas al sector logístico por región, tipo de institución y género
+
+Total de alumnos matriculados en carreras del sector logístico en educación superior por año, tipo de institución, región y género.Se consideran las siguientes carreras: Ingeniería Civil Logística, Ingeniería en Comercio Internacional, Ingeniería en Logística y similares, Ingeniería en Transporte Marítimo, Aéreo y similares, Técnico en Comercio Exterior, Técnico en Logística y similares, Técnico en Transporte.
+
+*   **Fuente:** CNED
+*   **Zona geográfica:** País</content>
+</page>
+
+<page>
+  <title>Reporte de datos | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/reportes-de-datos</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Datos | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/datos</url>
+  <content>1.  [](https://observatoriologistico.cl/)
+2.  Datos
+    
+
+Conjuntos de datos presentados en formato de tablas y gráficos, clasificados en categorías para facilitar el orden. También se pueden descargar en formato xlsx y csv, según tu necesidad. Encontrarás también Maestros de datos, que compilan datos clave, inmutables o semi-inmutables, descriptivos de las características fundamentales de una entidad (ej. puerto, paso fronterizo, etc.).
+
+*   [1](https://observatoriologistico.cl/datos?page=0)
+*   [2](https://observatoriologistico.cl/datos?page=1)
+*   [3](https://observatoriologistico.cl/datos?page=2)
+*   [4](https://observatoriologistico.cl/datos?page=3)
+*   [5](https://observatoriologistico.cl/datos?page=4)
+*   [6](https://observatoriologistico.cl/datos?page=5)
+*   [7](https://observatoriologistico.cl/datos?page=6)
+*   [8](https://observatoriologistico.cl/datos?page=7)
+
+Lo más visto
+------------
+
+### **Toneladas transferidas por puertos estatales mensualizado**
+
+*   **Actualizado:** 19/03/2025
+*   **Fuente:** Programa de Desarrollo Logístico, MTT
+*   **Zona geográfica:** País
+
+* * *
+
+### Valor mensual de las importaciones por tipo de bien
+
+Importaciones de bienes, por tipo de bien en millones de US$ CIF. Desagregación temporal anual.
+
+*   **Fuente:** Otros
+*   **Zona geográfica:** País
+
+### Porcentaje del costo logístico en relación al valor del producto de cadenas de importación y exportación
+
+Porcentaje del costo logístico en relación al valor del producto. Desagregación temporal anual.
+
+*   **Fuente:** Conecta Logística
+*   **Zona geográfica:** País
+
+### Envíos postal y courier de ingreso por aeropuerto
+
+Cantidad de envíos y peso en Kg de las operaciones de ingreso de carga courier y postal. La carga postal no tiene información del peso. Datos entregados por Aduanas RM vía correo electrónico.
+
+*   **Fuente:** Servicio Nacional de Aduanas
+*   **Zona geográfica:** Región
+
+### Inscripción mensual de nuevos remolques y semirremolques
+
+Se presentan todos los remolques y semirremolques registrado mensualmente en el registro civil por medio del Registro de Vehículos Motorizados, esta información es consolidada y disponibilizada por ANAC A.G. Los datos están agregado a nivel país.Fuente: ANAC A.G. elaborado con datos del RNVM.
+
+*   **Fuente:** ANAC
+*   **Zona geográfica:** País
+
+### Inscripciones de nuevos vehículos por tipo a nivel mensual
+
+Se presentan todos los vehículos registrados en el registro civil por medio del Registro de Vehículos Motorizados, esta información es consolidad y disponibilizada por ANAC A.G. Estos datos se desagregan por tipo ("Camión", "Carro Bomba", "Chasis", "Chasis Cabina", "Tractocamión", "Vehículo Comercial" y "Otros").Fuente: ANAC A.G. elaborado con datos del RNVM.
+
+*   **Fuente:** ANAC
+*   **Zona geográfica:** País
+
+### Carga por pasos fronterizos
+
+Carga movilizada por carretera a través de pasos fronterizos. Desagregación temporal mensual.
+
+*   **Fuente:** Servicio Nacional de Aduanas
+*   **Zona geográfica:** País
+
+*   [1](https://observatoriologistico.cl/datos?page=0)
+*   [2](https://observatoriologistico.cl/datos?page=1)
+*   [3](https://observatoriologistico.cl/datos?page=2)
+*   [4](https://observatoriologistico.cl/datos?page=3)
+*   [5](https://observatoriologistico.cl/datos?page=4)
+*   [6](https://observatoriologistico.cl/datos?page=5)
+*   [7](https://observatoriologistico.cl/datos?page=6)
+*   [8](https://observatoriologistico.cl/datos?page=7)</content>
+</page>
+
+<page>
+  <title>Indicadores logísticos | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/categorias/indicadores-logisticos</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Encuestas | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/encuestas?f%5B0%5D=category_resource_name%3AEncuestas</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Estudios | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/estudios?f%5B0%5D=category_resource_name%3AEstudios</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Planes | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/planes?f%5B0%5D=category_resource_name%3APlanes</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Glosario | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/glosario</url>
+  <content>1.  [](https://observatoriologistico.cl/)
+2.  Glosario
+    
+
+Conoce el listado alfabetizado de diversas definiciones y explicaciones de términos relacionados al ámbito logístico. Descubre conceptos poco conocidos o de difícil interpretación.
+
+*   [A](#A)
+*   [B](#B)
+*   [C](#C)
+*   [D](#D)
+*   [E](#E)
+*   [G](#G)
+*   [I](#I)
+*   [L](#L)
+*   [M](#M)
+*   [N](#N)
+*   [O](#O)
+*   [P](#P)
+*   [R](#R)
+*   [S](#S)
+*   [T](#T)
+*   [U](#U)
+*   [V](#V)
+
+**Índice de contenidos**
+
+65 Palabras
+
+A
+-
+
+*   ### Agentes de naves o consignatarios de naves
+    
+    Son las personas naturales o jurídicas chilenas, que actúan, sea en nombre del armador, del dueño o del Capitán de una nave y en representación de ellos, para todos los actos o gestiones concernientes a la atención de la nave en el puerto de su consignación.
+    
+*   ### Amarradores
+    
+    Son las personas que hace firmes los cabos o amarras del buque a las bitas del sitio de atraque designado.
+    
+*   ### Arqueo bruto
+    
+    Es la expresión del tamaño total de una nave, que se determina en base al volumen total de todos sus espacios cerrados.
+    
+*   ### Automotor
+    
+    Equipo rodante ferroviario autopropulsado, destinado al transporte comercial de pasajeros, compuesto de dos o más coches unidos entre sí por acoplamientos semipermanentes, comandados desde una sola cabina. El cambio de sentido de circulación no requiere alterar la formación del equipo.
+    
+*   ### Autoridad marítima
+    
+    El Director, que será la autoridad superior, los Gobernadores Marítimos y los Capitanes de Puerto. Los Cónsules, en los casos que la ley determine, y los Alcaldes de Mar, de acuerdo con las atribuciones específicas que les asigne el Director, se considerarán Autoridades Marítimas para los efectos del ejercicio de ellas.
+    
+*   ### Autoridad marítima local
+    
+    Esta es representada por los Capitanes de Puerto quienes desempeñarán sus funciones como delegados del Director, y serán los encargados de fiscalizar el cumplimiento de las disposiciones legales o reglamentarias dentro de su territorio jurisdiccional.
+    
+*   ### AUV \[Acr\]
+    
+    Acrónimo de Autorización de Uso de Vía. Sistema de Movilización que utiliza puntos identificables permanentes tales como: punto kilométrico (Pk), límite de patio (LP) y cambios de entrada y salida de las estaciones, además de balizas temporales, como protección en zonas de trabajos de la vía. La operación es dirigida por el Controlador de Tráfico, quien otorga la movilización mediante comunicación radial u otro medio alternativo con el Maquinista y las autorizaciones de vía libre se efectúan a través de formularios.
+    
+
+B
+-
+
+*   ### Banda de atraque
+    
+    Atraque de costado en el lugar designado, por una de la bandas de la nave, estribor (banda derecha de la nave) o babor (banda izquierda de la nave).
+    
+*   ### Bogie o Boguie
+    
+    Dispositivo que contiene las paradas de ruedas de un material rodante. Soporta la caja o superestructura del material rodante, transmitiendo su peso a la vía férrea. El conjunto está formado por un marco o bastidor, dos o más paradas de ruedas, una viga de cuna o travesaño que lleva una copa o plato de centro y amortiguaciones primarias y secundarias. El conjunto contiene también las partes mecánicas del freno y, en el caso de las locomotoras y automotores, los motores de tracción.
+    
+*   ### Buque car carrier
+    
+    Es un buque de transporte cuadrado destinado a la carga y descarga de vehículos. Con tal de facilitar la carga y descarga de este tipo de embarcaciones, los buques disponen de rampas construidas en el propio barco para que la carga en ruedas sea mucho más sencilla de cargar y descargar que si se hiciera con grúa. La carga rodada accede a la embarcación a través de unas compuertas ya sea en popa o en proa.
+    
+*   ### Buque carga general
+    
+    Estos buques están destinados a transportar mercaderías diversas también son conocidos con el nombre de “buques multipropósito”. Ellos son indispensables a la hora de transportar determinadas mercaderías que por su naturaleza y acondicionamiento no van en buques porta contenedores.
+    
+*   ### Buque granelero
+    
+    Son los buques destinados para el transporte de cargas secas a granel. Son fácilmente identificables por tener una única cubierta corrida con varias escotillas y unas correderas a uno o ambos lados. Pueden transportar cereales, minerales o mixto teniendo este tipo de barco cubiertas altamente reforzadas.
+    
+*   ### Buque petrolero/tanque
+    
+    Son los buques destinados al transporte de crudo desde las plataformas offshore o desde puertos de países productores hasta las refinerías; como también el tráfico entre puertos nacionales.
+    
+*   ### Buque portacontenedores
+    
+    Son los buques encargados de transportar carga en contenedores estandarizados, se utilizan para transportar todo tipo de mercancías por todo el mundo.
+    
+*   ### Buques liner
+    
+    El transporte marítimo de línea regular, conocido en inglés como Liner, se encarga de proporcionar un servicio donde las rutas sean regulares y frecuentes, con disponibilidad de espacio. En dichas rutas, las salidas y entradas de los buques a puertos donde se fijan de antemano el itinerario y las tarifas que se apliquen. El tráfico de los buques portacontenedores es bajo términos Liner.
+    
+*   ### Buques tramp
+    
+    Este tipo de transporte Tramp (vagabundo), se realiza contratando el espacio de carga de un buque, total o parcial, para efectuar uno o varios viajes, o bien para utilizarlo por un periodo de tiempo. La modalidad Tramp es usada para el transporte de grandes volúmenes de mercancías a granel, sea líquida o sólida y gran número de unidades de automóviles o incluso plantas de fabricación completas.
+    
+
+C
+-
+
+*   ### Camión
+    
+    Automóvil de carga destinado a transportar carga exclusivamente sobre plataforma fijada a su chasis.
+    
+*   ### Capitán
+    
+    Es la máxima autoridad en un buque. Es el responsable de todo el funcionamiento de éste. Dirige, coordina y controla todas las actividades que se realizan a bordo, siendo responsable de la seguridad del buque, tripulación, cargamento, navegación y organización del trabajo.
+    
+*   ### Carro
+    
+    Material rodante remolcado, destinado al transporte de carga por las vías férreas.
+    
+*   ### Comisión de recepción y despacho
+    
+    Está conformada por las Autoridades Públicas que deben intervenir en la recepción o despacho de una nave, de acuerdo a su ámbito de competencia.
+    
+
+D
+-
+
+*   ### Despacho
+    
+    Para hacerse a la mar desde cualquier puerto de la República, toda nave requiere la previa autorización de zarpe de la Autoridad Marítima local; autorización que se denominará "despacho" y se otorgará si se cumplen las formalidades y exigencias de las Autoridades Públicas. Para el despacho será necesario que el capitán o agente de la nave trámite de forma digital la Declaración General, que la nave tenga su documentación en orden y que sus condiciones de seguridad para la navegación se conformen a la legislación y reglamentación marítima. Para determinar a las autoridades públicas que deben intervenir en su despacho y los documentos que deberán presentarse, dependerá de la nacionalidad de la nave y del próximo puerto si es nacional o extranjero.
+    
+*   ### Destrinca
+    
+    Es la operación inversa de la trinca, consiste en liberar los materiales o elementos de sujeción de la carga, para su posterior descarga de la nave.
+    
+
+E
+-
+
+*   ### Equipo rodante o material rodante
+    
+    Todo tren o vehículo ferroviario habilitado para circular sobre la vía férrea ya sean tractores o remolcados.
+    
+*   ### Equipo tractor
+    
+    Todo equipo motor habilitado con tracción propia.
+    
+
+G
+-
+
+*   ### Gálibo del material rodante
+    
+    Gálibo que limita el dimensionamiento de las secciones del material rodante detenido o en movimiento.
+    
+
+I
+-
+
+*   ### Instalación Portuaria (IP)
+    
+    Expresión genérica para referirse a frentes de atraque, sitios, muelles, molos, malecones, terminales marítimos (mono/multiboyas), diques flotantes/secos, pontones, rampas u otras similares que permitan el atraque o amarre de naves.
+    
+
+L
+-
+
+*   ### Líneas férreas
+    
+    Es la unidad formada por vías férreas que comunican en forma continua y directa las estaciones, incluyendo sus terraplenes, obras de arte, puentes, túneles, alcantarillas y otras estructuras de drenaje o de apoyo, y la franja de terreno en que se emplazan. Se considera también como parte de la línea férrea la franja de seguridad aledaña a las vías férreas. Por el contrario, no forman parte de la línea férrea, las vías férreas en los patios de maniobras ni otros desvíos y los elementos que conforman los sistemas ferroviarios de electrificación, señalización y comunicación.
+    
+*   ### Locomotora
+    
+    Material rodante ferroviario autopropulsado, que circula sobre vías férreas, destinado a remolcar los coches o carros de un tren.
+    
+*   ### Locomotora de patio
+    
+    Locomotora destinada a ejecutar las maniobras de patio de armado y desarmado de trenes.
+    
+*   ### Locomotora diésel
+    
+    Locomotora que utiliza una planta diésel para suministrar directamente, por medio del sistema de acople adecuado, la energía necesaria al eje de tracción para producir el arrastre del equipo rodante ferroviario.
+    
+*   ### Locomotora diésel-eléctrica
+    
+    Locomotora accionada por motores eléctricos que reciben su energía de la planta instalada en ella, constituida por un motor diésel acoplado a un generador eléctrico.
+    
+*   ### Locomotora eléctrica
+    
+    Locomotora accionada por motores eléctricos que reciben su energía de una fuente externa.
+    
+
+M
+-
+
+*   ### Manteleta
+    
+    Lona que se coloca desde el costado de la nave y hasta el delantal del muelle, bajo la zona de pasada de la carga, para evitar derrames de gráneles.
+    
+
+N
+-
+
+*   ### Naves mayores
+    
+    Son aquellas de más de cincuenta toneladas de arqueo bruto.
+    
+*   ### Naves menores
+    
+    Son aquellas de cincuenta o menos toneladas de arqueo bruto.
+    
+
+O
+-
+
+*   ### Obra de arte u Obra ferroviaria
+    
+    1\. Es toda obra que asegura la continuidad de una vía férrea cuando esta encuentra un obstáculo natural o artificial, ya sea por: Franqueamiento (Puentes, Viaductos, Pasos y Alcantarillas). Perforamiento: (Túneles). Las obras de defensa fluvial son también obras de arte. 2. Toda estructura que sirva para sortear un obstáculo, natural o artificial, que se interponga a la continuidad de las vías férreas y que sea calculada para resistir el tráfico de trenes.
+    
+*   ### Operador logístico
+    
+    Empresa que presta servicios logísticos a terceros.
+    
+
+P
+-
+
+*   ### Parada de rueda
+    
+    Conjunto de dos ruedas unidas por un eje. Se pueden distinguir dos grupos: Motriz y Portante. Cuando el eje lleva una corona dentada, a través de la cual se transmite la potencia del motor de tracción la parada de ruedas se llama motriz, de lo contrario se llama parada de ruedas portante.
+    
+*   ### Pilotaje
+    
+    Es la conducción de la derrota de una nave por los canales o entre puertos del litoral.
+    
+*   ### Planificación naviera
+    
+    Contiene la información correspondiente a las Naves que recalarán en determinado Puerto o Terminal, fecha de arribo y zarpe, sitio asignado, turnos de trabajo, Agencia Naviera, etc. Esta se confecciona en reuniones donde participan representantes del Puerto o Terminal y las Agencias de naves que actúan como representantes de las Navieras o Armadores.
+    
+*   ### Portalon, escalas reales y pasarelas de embarque
+    
+    Son un elemento clave en la operativa de trabajo de cualquier buque, permiten el embarque y desembarque de personas, estos deben cumplir con la normativa internacional otorgando condiciones seguras de uso, además deben poseer una red de seguridad para proteger cualquier caída.
+    
+*   ### Practicaje
+    
+    Es toda maniobra que se ejecuta con una nave en puerto.
+    
+*   ### Prácticos
+    
+    Son los profesionales dependientes de la Dirección General, autorizados por ella y ajenos a la dotación de la nave, que asesoran al Capitán en todo lo relativo a la navegación, a las maniobras, a la legislación y a la reglamentación de la República. Toda nave chilena o extranjera que navegue por aguas interiores de la República, por el Estrecho de Magallanes o que efectúe cualquier maniobra en los puertos de la República de Chile, o en sus vecindades, deberá utilizar prácticos chilenos.
+    
+*   ### Proceso de atraque
+    
+    Son todas las maniobras necesarias para el atraque de la nave en el puerto, o el amarre al terminal marítimo, hasta dejarla convenientemente asegurada en el lugar de término del respectivo practicaje. Se empleará el número de remolcadores y demás elementos de apoyo a la maniobra, conforme a las disposiciones de la Autoridad Marítima local.
+    
+*   ### Proceso de destraque
+    
+    Son todas las maniobras necesarias para el desatraque de la nave en el puerto, o el desamarre del terminal marítimo, hasta dejarla convenientemente asegurada en el lugar de término del respectivo practicaje. Se empleará el número de remolcadores y demás elementos de apoyo a la maniobra, conforme a las disposiciones de la Autoridad Marítima local.
+    
+*   ### Programa en puerto de una nave
+    
+    Considera la información del programa de atraque o amarra, tales como; fecha y hora de atraque, sitio de atraque, banda de atraque, tiempo de operación, hora estimada de remate de operaciones, y toda la información relevante de las actividades que realizara la nave durante su estadía en puerto.
+    
+*   ### Puerto
+    
+    Localidad geográfica y unidad económica de una localidad donde se ubican los terminales, infraestructuras e instalaciones terrestres y acuáticos, naturales o artificiales, acondicionados para el desarrollo de actividades portuarias.
+    
+
+R
+-
+
+*   ### Recepción
+    
+    Es el acto Administrativo, por el cual las autoridades verifican que los documentos y las condiciones de seguridad de la nave están en orden, y fija las normas a que deberá sujetarse en su ingreso y durante su permanencia en puertos nacionales. Para determinar las autoridades que deben intervenir en la recepción y los documentos que deberán presentarse, dependerá de la nacionalidad de la nave y del puerto de procedencia si es nacional o extranjero.
+    
+*   ### Recepción de puerto intermedio
+    
+    Es el acto que se realiza en la naves que provienen de un puerto nacional, por el cual las autoridades verifican que los documentos y las condiciones de seguridad de la nave están en orden, las autoridades (SAG y PDI) después de realizar un análisis de riesgo según los antecedentes proporcionados por el Agente de naves con antelación y de las observaciones que hubiesen levantado las autoridades en el puerto anterior, decidirán subir o no abordo a la recepción.
+    
+*   ### Recepción formal de la nave
+    
+    Esta se realizará en el primer puerto nacional de recalada, con la participación de las autoridades que intervienen para los efectos de los controles que deben realizarse, serán recibidas por la Autoridad Marítima. Si fuere necesario, concurrirán a bordo, además, el Servicio de Aduanas, la Policía Internacional, Sanidad Marítima y Servicio Agrícola y Ganadero, una vez verificado que la nave cumple con las formalidades y exigencias de las autoridades, se entregara la “libre platica” quedando la nave autorizada para iniciar operaciones de carga y para el desembarco y embarco de personas.
+    
+*   ### Remate de operaciones
+    
+    Es el termino de las operaciones de transferencia de carga de una nave incluyendo las faenas de trinca, trimado y de todas las medidas necesarias para una navegación en condiciones de seguridad.
+    
+*   ### Remolque
+    
+    Vehículo de uno o más ejes diseñado y equipado de manera que ninguna fracción sustancial de su peso sea soportada por el vehículo tractor.
+    
+*   ### Resolución de habilitación
+    
+    Documento emitido por el Capitán de Puerto, donde se establecen las condiciones, regulaciones y límites para la maniobrabilidad y operación de las naves en las instalaciones portuarias en su jurisdicción.
+    
+
+S
+-
+
+*   ### Semirremolques
+    
+    Vehículo diseñado para ser acoplado a un tractor de semiremolques de manera de transferir a este parte substancial de su peso total.
+    
+*   ### Sitio de atraque
+    
+    Es el lugar designado en una Instalación Portuaria para atracar o amarrar una embarcación, es decir, inmovilizarla haciendo uso de los cabos, estacionando así la nave. Una embarcación puede atracar de costado (ya sea a babor o a estribor), o de punta (ya sea a proa o a popa).
+    
+
+T
+-
+
+*   ### Terminal portuario
+    
+    Unidades operativas de un puerto habilitado para proporcionar intercambio modal y servicios portuarios; incluye la infraestructura, las áreas de depósitos transitorio y la vías internas de transporte.
+    
+*   ### Tractor de semiremolques o tractor-camión
+    
+    Vehículo de motor diseñado y equipado para arrastrar un semiremolque mediante dispositivo denominado quinta rueda.
+    
+*   ### Tren
+    
+    1\. Es toda composición con medios de tracción propio para circular por las vías férreas o el vehículo tractor solo. 
+    
+    2\. También se considera tren a toda clase de vehículos menores, mixtos o no, con medios de tracción propia, destinados al mantenimiento. 
+    
+    3\. Todo móvil que circula sobre las vías férreas.
+    
+*   ### Tren de carga
+    
+    Tren compuesto por unas o más locomotoras y uno o más carros de carga, para el transporte de carga.
+    
+*   ### Trimado
+    
+    Operación siguiente a la estiba de algunas mercancías (cereales, minerales, etc.), que consiste en aplanar la superficie de las mismas, con lo que se consigue aprovechar mejor el espacio disponible y dar mayor seguridad a la navegación.
+    
+*   ### Trinca
+    
+    Es la acción necesaria de sujetar, inmovilizando firmemente mediante los materiales o elementos necesarios y adecuados, todo tipo de bultos, cajas, pallets, máquinas y en general, todo tipo de mercancías que sean transportadas, con la finalidad de prevenir y evitar deslizamientos de la carga que puedan peligrar la estabilidad de la nave en navegación.
+    
+*   ### Trocha
+    
+    1\. Distancia entre los cantos laterales internos de las cabezas de 2 rieles opuestos, medidos perpendicularmente a la vía y a 16 mm de la superficie de rodado. 
+    
+    2\. En Sudamérica, ancho de la vía férrea.
+    
+*   ### Trocha del material rodante
+    
+    Medida compuesta por la distancia entre las caras interiores de las ruedas de una parada de ruedas, a la que se agrega el ancho de las pestañas de ambas ruedas con el perfil normalizado. Este ancho se mide a una altura de 16 mm sobre la superficie de rodado de las ruedas.
+    
+
+U
+-
+
+*   ### Usuario logístico
+    
+    Persona o empresa que contrata servicios logísticos a uno o más operadores logísticos.
+    
+
+V
+-
+
+*   ### Ventanilla Única Marítima
+    
+    Es la plataforma encargada de la gestión de la información requerida en los procesos de prearribo, recalada, permanencia y zarpe de naves, poniendo a disposición de las autoridades, servicios públicos, agentes de nave y de todos los actores involucrados, de manera oportuna y eficiente, la información requerida para el acto de Recepción y Despacho de naves, debiendo para ello interoperar con los sistemas nacionales y otras ventanillas internacionales.</content>
+</page>
+
+<page>
+  <title>Metodologías | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/metodologias?f%5B0%5D=category_resource_name%3AMetodolog%C3%ADas</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Nosotros | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/nosotros</url>
+  <content>El Observatorio Logístico es un proyecto conjunto entre el Ministerio de Transportes y Telecomunicaciones y Conecta Logística.
+
+¿Qué es el Observatorio Logístico?
+----------------------------------
+
+Sobre el proyecto
+-----------------
+
+El Observatorio Logístico es un proyecto que se gestó como idea el año 2009 y que ha avanzado a distintos ritmos hasta la actualidad. Su generación y desarrollo intenta subsanar la carencia de información confiable, centralizada, sistémica y oportuna relacionada al transporte y logística de cargas.
+
+Tal falta de información sobre el transporte de cargas en los diversos modos y etapas de la cadena logística ha quedado de manifiesto en numerosas instancias de discusión y documentos que recogen opiniones de actores tanto del sector público como privado y la academia. Algunos de estos documentos, generados durante esta administración, son los siguientes:
+
+1.  Estrategia 2030 de Puertos y su Logística (Consejo Nacional de Innovación para el Desarrollo, 2015): “El Observatorio Logístico debe ser fortalecido y consolidarse institucionalmente, con financiamiento adecuado, personal técnico suficiente y un mecanismo de colaboración público y privada”. (pág. 34)
+2.  OECD - “Better Policies” Series – Chile, policy priorities for stronger and more equitable growth. September 2015: “a Logistics Observatory should be established to consolidate all existing freight transportation and supply chain data available in Chile” (pág. 17).
+3.  Programa Estratégico Nacional Logística para Exportaciones de CORFO (2016): Señala como medida estructural la implementación del Observatorio Logístico en el MTT.
+4.  CAMPORT - Desafíos de la conectividad para el comercio exterior: “La iniciativa de desarrollar un Observatorio Logístico puede generar información valiosa para analizar los determinantes de la productividad en los diferentes puertos y promover las acciones que permitan su incremento” (pág. 66).
+
+Objetivos
+---------
+
+De esta forma, los objetivos clave que se ha planteado para el Observatorio Logístico son:
+
+*   Captar, organizar y publicar información objetiva de alta calidad sobre el sector logístico nacional.
+*   Elaborar análisis e investigaciones relevantes y con valor agregado relacionados con el sector logístico nacional.
+*   Difundir (publicar y promover) adecuadamente los resultados obtenidos.
+
+Te invitamos a explorar
+-----------------------
+
+*   [](https://observatoriologistico.cl/encuestas)
+*   [](https://observatoriologistico.cl/estudios)
+*   [](https://observatoriologistico.cl/planes)
+*   [](https://observatoriologistico.cl/metodologias)</content>
+</page>
+
+<page>
+  <title>Valor mensual de las importaciones por tipo de bien</title>
+  <url>https://observatoriologistico.cl/datos/valor-mensual-de-las-importaciones-por-tipo-de-bien</url>
+  <content>1.  [](https://observatoriologistico.cl/)
+
+3.  Valor Mensual de Las Importaciones Por Tipo de Bien
+    
+
+*   Conjunto de datos
+
+###### Mostrar / Ocultar columnas
+
+*   Año
+*   Mes
+*   Categoría
+*   Tipo
+*   Valor
+
+| Año | Mes | Categoría | Tipo | Valor |
+| --- | --- | --- | --- | --- |
+| 2025 | Abril | Bienes de capital | Vehículos, Maquinarias y Otros | 1559.3 |
+| 2025 | Abril | Bienes de consumo | Durables | 689.2 |
+| 2025 | Abril | Bienes de consumo | Otros bienes de consumo | 865.6 |
+| 2025 | Abril | Bienes de consumo | Semidurables | 444.5 |
+| 2025 | Abril | Bienes intermedios | Productos energéticos | 1304.2 |
+| 2025 | Abril | Bienes intermedios | Resto bienes intermedios | 2706.6 |
+| 2025 | Marzo | Bienes de capital | Vehículos, Maquinarias y Otros | 1439.1 |
+| 2025 | Marzo | Bienes de consumo | Durables | 725.2 |
+| 2025 | Marzo | Bienes de consumo | Otros bienes de consumo | 836.7 |
+| 2025 | Marzo | Bienes de consumo | Semidurables | 570.5 |
+
+### Descripción
+
+Importaciones de bienes, por tipo de bien en millones de US$ CIF. Desagregación temporal anual.
+
+### Columnas
+
+*   **Año:** categorías de bienes
+*   **Mes:** tipo de bien
+*   **Categoría:** año
+*   **Tipo:** mes
+*   **Valor:** total del valor comercial CIF en millones de USD
+
+### Metadatos
+
+*   **Descripcion** C010
+*   **Título del proceso** Valor mensual de las importaciones por tipo de bien
+*   **Categoría** Comercio exterior
+*   **Tipo de elemento** Conjunto de datos
+*   **Palabras clave** bien,importacion
+*   **Descripción** Importaciones de bienes, por tipo de bien en millones de US$ CIF. Desagregación temporal anual.
+*   **Entidad responsable** Otros
+*   **Obtención** Descargar directamente el archivo Excel desde la dirección URL de la fuente.
+*   **Formato original** .xlsx
+*   **Enlace fuente original** https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP\_BDP/MN\_BDP42/BP6M\_CCMM/BP6M\_CCMM
+*   **Frecuencia actualización fuente** Mensual
+*   **Idioma fuente** Español
+*   **Fecha de incorporación al observatorio** 1/01/2024
+*   **Frecuencia de actualización del observatorio** Mensual
+*   **Fecha de próxima actualización en el observatorio** 2025-06-15 12:00:00
+*   **Fecha de última actualización en el observatorio** 2025-05-15 12:53:55
+*   **Área geográfica cubierta** País
+*   **Mínimo espacio geográfico de desagregación** País
+*   **Periodo de tiempo cubierto** Desde 2013, desfase de 15 días
+*   **Mínimo periodo de tiempo de desagregación** Meses
+*   **Notas adicionales de los datos** Se define como "Durables" aquellos bienes que tengan un valor relativamente alto y que puedan utilizarse para el consumo durante un período superior a un año; y también aquellos bienes de consumo que puedan utilizarse durante tres años o más. Se define como "Semidurables" aquellos bienes que pueden utilizarse para el consumo por más de un año pero menos de tres, y que no tengan un valor relativamente alto.El monto de importaciones de bienes de capital del mes de octubre 2012, incluye excepcionalmente una revisión producto de la incorporación de información no incluida en la versión anterior.
+
+Podría interesarte
+------------------</content>
+</page>
+
+<page>
+  <title>Porcentaje del costo logístico en relación al valor del producto de cadenas de importación y exportación</title>
+  <url>https://observatoriologistico.cl/datos/porcentaje-del-costo-logistico-en-relacion-al-valor-del-producto-de-cadenas-de-importacion-y</url>
+  <content>1.  [](https://observatoriologistico.cl/)
+
+3.  Porcentaje del Costo Logístico En Relación Al Valor del Producto de Cadenas de Importación y Exportación
+    
+
+*   Conjunto de datos
+*   Gráficos
+
+###### Mostrar / Ocultar columnas
+
+*   Año
+*   Operación
+*   Producto
+*   País
+*   Puerto de Chile
+*   Costo logístico promedio
+*   Costo logístico Ad Valorem
+*   Valor comercializado
+*   Toneladas totales
+
+| Año | Operación | Producto | País | Puerto de Chile | Costo logístico promedio | Costo logístico Ad Valorem | Valor comercializado | Toneladas totales |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019 | Exportación | Arandano | Alemania | San Antonio | 567.8112864155 | 14.85 | 112225.21 | 29.3574 |
+| 2020 | Exportación | Arandano | Alemania | San Antonio | 705.9369804051 | 11 | 181408.47 | 28.2568 |
+| 2021 | Exportación | Arandano | Alemania | San Antonio | 487.6457738323 | 13.32 | 68948.14 | 18.83425 |
+| 2022 | Exportación | Arandano | Alemania | San Antonio | 658.1058914968 | 45.82 | 53767 | 37.4332 |
+| 2023 | Exportación | Arandano | Alemania | San Antonio | 710.1754822159 | 22.61 | 73213.5 | 23.31024 |
+| 2019 | Exportación | Arandano | China | San Antonio |  |  | 93788.4 | 27.78 |
+| 2021 | Exportación | Arandano | China | San Antonio | 568.0033887542 | 23 | 2987.25 | 1.20985 |
+| 2022 | Exportación | Arandano | China | San Antonio |  |  | 70917.75 | 19.84114 |
+| 2023 | Exportación | Arandano | China | San Antonio |  |  | 59800 | 11.96 |
+| 2019 | Exportación | Arandano | China | Valparaíso | 486.2492587858 | 13.21 | 46845.41 | 12.7272 |
+
+### Descripción
+
+Porcentaje del costo logístico en relación al valor del producto. Desagregación temporal anual.
+
+### Columnas
+
+*   **Año:** año
+*   **Operación:** tipo de operación de comercio exterior
+*   **Producto:** clasificación del producto
+*   **País:** país
+*   **Puerto de Chile:** puerto de chile
+*   **Costo logístico promedio:** costo logístico promedio de la cadena (en dólares por tonelada)
+*   **Costo logístico Ad Valorem:** indicador que representa la proporción del traslado del producto en relación a su valor comercializado (en dólares por tonelada)
+*   **Valor comercializado:** valor comercializado (en dólares)
+*   **Toneladas totales:** carga comercializada (en toneladas)
+
+### Metadatos
+
+*   **Descripcion** P043
+*   **Título del proceso** Porcentaje del costo logístico en relación al valor del producto de cadenas de importación y exportación
+*   **Categoría** Comercio exterior
+*   **Tipo de elemento** Producto de datos
+*   **Palabras clave** exportacion,importacion,cadena,costo logistico,comercio exterior
+*   **Descripción** Porcentaje del costo logístico en relación al valor del producto. Desagregación temporal anual.
+*   **Entidad responsable** Conecta Logística
+*   **Obtención** Este producto de datos es generado utilizando datos del Servicio Nacional de Aduanas
+*   **Formato original** DB
+*   **Enlace fuente original** https://datos.gob.cl/organization/servicio\_nacional\_de\_aduanas
+*   **Frecuencia actualización fuente** Anual
+*   **Idioma fuente** Español
+*   **Fecha de incorporación al observatorio** 1/10/2024
+*   **Frecuencia de actualización del observatorio** Anual
+*   **Fecha de próxima actualización en el observatorio** 2026-05-08 17:00:00
+*   **Fecha de última actualización en el observatorio** 2025-05-09 16:26:40
+*   **Área geográfica cubierta** País
+*   **Mínimo espacio geográfico de desagregación** País
+*   **Periodo de tiempo cubierto** Desde 2019, con desfase de 1 mes
+*   **Mínimo periodo de tiempo de desagregación** Años
+*   **Notas adicionales de los datos** i) El valor USD FOB o CIF representa el costo por unidad de un tipo de embarque, mientras que el costo ad valorem es el porcentaje normalizado que refleja el costo logístico sobre ese valor. ii) Existen valores nulos en algunas filas, debido a que algunas cadenas no presentan una cantidad de comercialización suficiente en un determinado año que permita calcular de manera confiable su costo logístico. iii) Las bases de datos de importación de comercio exterior disponibilizadas por el Servicio Nacional de Aduanas no poseen el detalle de peso por ítem, por lo que es realizado un supuesto de que el peso de cada ítem es proporcional a su partición porcentual de valor cif en su respectivo envío. iv) El cálculo se realiza solo considerando envíos "uniproducto" (es decir, envíos en que solo se enviaron productos de un mismo capítulo arancelario).
+
+Podría interesarte
+------------------</content>
+</page>
+
+<page>
+  <title>Envíos postal y courier de ingreso por aeropuerto</title>
+  <url>https://observatoriologistico.cl/datos/envios-postal-y-courier-de-ingreso-por-aeropuerto</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Inscripción mensual de nuevos remolques y semirremolques</title>
+  <url>https://observatoriologistico.cl/datos/inscripcion-mensual-de-nuevos-remolques-y-semirremolques</url>
+  <content>1.  [](https://observatoriologistico.cl/)
+
+3.  Inscripción Mensual de Nuevos Remolques y Semirremolques
+    
+
+*   Conjunto de datos
+*   Gráficos
+
+###### Mostrar / Ocultar columnas
+
+*   Año
+*   Mes
+*   Tipo
+*   Cantidad
+
+| Año | Mes | Tipo | Cantidad |
+| --- | --- | --- | --- |
+| 2023 | Mayo | Semi-rremolque | 589 |
+| 2023 | Mayo | Remolque | 103 |
+| 2023 | Marzo | Semi-rremolque | 632 |
+| 2023 | Marzo | Remolque | 68 |
+| 2023 | Junio | Semi-rremolque | 429 |
+| 2023 | Junio | Remolque | 91 |
+| 2023 | Julio | Semi-rremolque | 549 |
+| 2023 | Julio | Remolque | 60 |
+| 2023 | Febrero | Semi-rremolque | 382 |
+| 2023 | Febrero | Remolque | 84 |
+
+### Descripción
+
+Se presentan todos los remolques y semirremolques registrado mensualmente en el registro civil por medio del Registro de Vehículos Motorizados, esta información es consolidada y disponibilizada por ANAC A.G. Los datos están agregado a nivel país.Fuente: ANAC A.G. elaborado con datos del RNVM.
+
+### Columnas
+
+*   **Año:** año en que se inscribieron los vehículos
+*   **Mes:** mes en que se inscribieron los vehículos
+*   **Tipo:** tipo de vehículo
+*   **Cantidad:** cantidad de vehículos inscritos
+
+### Metadatos
+
+*   **Descripcion** C037
+*   **Título del proceso** Inscripción mensual de nuevos remolques y semirremolques
+*   **Categoría** Logística carretera
+*   **Tipo de elemento** Conjunto de datos
+*   **Palabras clave** remolque,semirremolque,camion
+*   **Descripción** Se presentan todos los remolques y semirremolques registrado mensualmente en el registro civil por medio del Registro de Vehículos Motorizados, esta información es consolidada y disponibilizada por ANAC A.G. Los datos están agregado a nivel país.Fuente: ANAC A.G. elaborado con datos del RNVM.
+*   **Entidad responsable** ANAC
+*   **Obtención** Datos entregados de manera directa por ANAC a Conecta Logística.
+*   **Formato original** .xlsx
+*   **Enlace fuente original** No Aplica
+*   **Frecuencia actualización fuente** Mensual
+*   **Idioma fuente** Español
+*   **Fecha de incorporación al observatorio** 24/05/2023
+*   **Frecuencia de actualización del observatorio** Mensual
+*   **Fecha de próxima actualización en el observatorio** 2025-06-01 19:00:00
+*   **Fecha de última actualización en el observatorio** 2025-05-01 19:03:35
+*   **Área geográfica cubierta** País
+*   **Mínimo espacio geográfico de desagregación** País
+*   **Periodo de tiempo cubierto** Desde enero 2016, desfase de 1 mes.
+*   **Mínimo periodo de tiempo de desagregación** Meses
+*   **Notas adicionales de los datos** i) Remolque: Vehículo independiente, no motorizado, que ofrece un espacio extra para almacenar la carga.ii) Vehículo sin motor pero que no es independiente, no cuenta con un eje delantero, sino que debe ser acoplado directamente en el vehículo de tracción.
+
+Podría interesarte
+------------------</content>
+</page>
+
+<page>
+  <title>Inscripciones de nuevos vehículos por tipo a nivel mensual</title>
+  <url>https://observatoriologistico.cl/datos/inscripciones-de-nuevos-vehiculos-por-tipo-nivel-mensual</url>
+  <content>1.  [](https://observatoriologistico.cl/)
+
+3.  Inscripciones de Nuevos Vehículos Por Tipo A Nivel Mensual
+    
+
+*   Conjunto de datos
+*   Gráficos
+
+###### Mostrar / Ocultar columnas
+
+*   Año
+*   Mes
+*   Tipo
+*   Cantidad
+
+| Año | Mes | Tipo | Cantidad |
+| --- | --- | --- | --- |
+| 2020 | Marzo | Vehículo Comercial | 2256 |
+| 2017 | Enero | Carro Bomba | 11 |
+| 2018 | Abril | Chasis Cabina | 49 |
+| 2018 | Abril | Otros | 31971 |
+| 2017 | Enero | Camión | 662 |
+| 2018 | Febrero | Camión | 601 |
+| 2023 | Mayo | Carro Bomba | 16 |
+| 2023 | Mayo | Otros | 22941 |
+| 2021 | Febrero | Camión | 579 |
+| 2019 | Diciembre | Vehículo Comercial | 2872 |
+
+### Descripción
+
+Se presentan todos los vehículos registrados en el registro civil por medio del Registro de Vehículos Motorizados, esta información es consolidad y disponibilizada por ANAC A.G. Estos datos se desagregan por tipo ("Camión", "Carro Bomba", "Chasis", "Chasis Cabina", "Tractocamión", "Vehículo Comercial" y "Otros").Fuente: ANAC A.G. elaborado con datos del RNVM.
+
+### Columnas
+
+*   **Año:** año en que se inscribieron los vehículos
+*   **Mes:** mes en que se inscribieron los vehículos
+*   **Tipo:** tipo de vehículo
+*   **Cantidad:** cantidad de vehículos inscritos
+
+### Metadatos
+
+*   **Descripcion** C026
+*   **Título del proceso** Inscripciones de nuevos vehículos por tipo a nivel mensual
+*   **Categoría** Logística carretera
+*   **Tipo de elemento** Conjunto de datos
+*   **Palabras clave** camion,vehiculo,inscripcion
+*   **Descripción** Se presentan todos los vehículos registrados en el registro civil por medio del Registro de Vehículos Motorizados, esta información es consolidad y disponibilizada por ANAC A.G. Estos datos se desagregan por tipo ("Camión", "Carro Bomba", "Chasis", "Chasis Cabina", "Tractocamión", "Vehículo Comercial" y "Otros").Fuente: ANAC A.G. elaborado con datos del RNVM.
+*   **Entidad responsable** ANAC
+*   **Obtención** Datos entregados de manera directa por ANAC a Conecta Logística.
+*   **Formato original** .xlsx
+*   **Enlace fuente original** No Aplica
+*   **Frecuencia actualización fuente** Mensual
+*   **Idioma fuente** Español
+*   **Fecha de incorporación al observatorio** 23/05/2023
+*   **Frecuencia de actualización del observatorio** Mensual
+*   **Fecha de próxima actualización en el observatorio** 2025-05-01 10:00:00
+*   **Fecha de última actualización en el observatorio** 2025-04-25 14:46:19
+*   **Área geográfica cubierta** País
+*   **Mínimo espacio geográfico de desagregación** País
+*   **Periodo de tiempo cubierto** Desde enero 2016, desfase de 1 mes.
+*   **Mínimo periodo de tiempo de desagregación** Meses
+*   **Notas adicionales de los datos** i) Camión: hace referencia al segmento camiones.ii) Tractocamión: camión pesado, que traccionan un semirremolque, no lleva carga sobre el chasis.iii) Chasis cabina: camión que posee solo chasis con motor y su cabina doble o simple.iv) Vehículo comercial: considera furgones, mini truck y mini bus.v) Carro bomba: vehículo de emergencia que cuenta con una bomba impulsora y un tanque de agua.vi) Chasis: corresponde al armazón que sostiene el motor y la carrocería.vii) Otros: agrupa los vehículos de pasajeros, SUV y camionetas.
+
+Podría interesarte
+------------------</content>
+</page>
+
+<page>
+  <title>Carga por pasos fronterizos | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/datos/carga-por-pasos-fronterizos</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Contáctanos | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/contactanos</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Barómetro de la Logística de Comercio Exterior de Chile</title>
+  <url>https://observatoriologistico.cl/reportes-de-datos/barometro-de-la-logistica-de-comercio-exterior-de-chile</url>
+  <content>**Índice de contenidos**
+
+Resumen
+-------
+
+El Barómetro de la Logística de Comercio Exterior es un conjunto de indicadores (KPI) en los ámbitos de eficiencia, eficacia, uso de infraestructura, información, articulación entre actores y sostenibilidad, diseñado para el Observatorio Logístico.
+
+Si bien la [metodología original](https://www.observatoriologistico.cl/metodologias/metodologia-para-el-barometro-de-la-logistica-de-comercio-exterior) fue desarrollada el año 2017 para el Programa Transforma Logística, el año 2020 se realizó una importante [actualización metodológica](https://www.observatoriologistico.cl/estudios/estudio-actualizacion-y-aplicacion-del-barometro-de-la-logistica-de-comercio-exterior-2020), mejorando la completitud de las preguntas y aumentando la representatividad estadística de la muestra. Esta última metodología, realizada por el Ministerio de Transportes y Telecomunicaciones y Conecta Logística, es la que se utiliza hasta la actualidad.
+
+Introducción
+------------
+
+El desempeño logístico eficiente es relevante para alcanzar mayor productividad y desarrollo económico, por lo que no es solo un desafío privado sino también un ámbito de política. Uno de los principales indicadores internacionales para medir el desempeño de este sector es el Logistic Performance Index del Banco Mundial. Dicho indicador “está diseñado como un benchmark global y no como un instrumento de diagnóstico local" (World Bank, 2016).
+
+Es por este motivo que se diseñó el Barómetro de la Logística de Comercio Exterior; un conjunto de indicadores en los ámbitos de eficiencia, eficacia, uso de infraestructura e información, articulación entre actores y sustentabilidad.
+
+La visualización de los datos se dividió en dos módulos. El primer módulo contiene información de las empresas participantes, como la cantidad de empresas participantes, el tamaño de estas, el principal modo de transporte utilizado y el principal producto comerciado. El segundo módulo Barómetro de la Logística del Comercio Exterior está compuesto por 5 indicadores, los que a su vez cuentan con sus respectivos subindicadores. El principal es el Indicador de Percepción, que permite comparar la expectativa de las empresas sobre el futuro el año anterior, versus la situación actual del año en curso.
+
+Principales resultados de la última versión
+-------------------------------------------
+
+La última aplicación del **Barómetro de la Logística de Comercio Exterior** contó con la participación de aproximadamente 340 empresas, lo que representa una muestra estadísticamente representativa del sector.
+
+Los datos reflejan que tanto importadores/exportadores como operadores logísticos (proveedores de servicios logísticos) muestran expectativas de crecimiento en la demanda de servicios para el año 2025, a pesar del alza de precios observada durante el año anterior. Así, una parte importante de los operadores que experimentaron una leve disminución en la demanda durante 2024 anticipa un repunte para 2025. También se evidencia que un 73% de los usuarios observó un aumento en los precios durante 2024.
+
+En materia de sostenibilidad e innovación, un 34% de las empresas valora positivamente, con nota 4 o 5 (sobre 5), la adopción de energías limpias en el sector, proporción que aumentó desde el 29% en 2023. Por su parte, más de dos tercios (69%) de las empresas evalúan positivamente el nivel de digitalización del sector, marcando un aumento considerable respecto del 48% registrado en 2023.
+
+La infraestructura mejor evaluada por los operadores logísticos, exportadores e importadores es la caminera, donde un 67% de ellos la califica positivamente. Por otro lado, la rapidez en el despacho de aduanas y fronteras fue bien valorada por un 54% de los operadores logísticos y un 68% de los importadores y exportadores, mostrando una mejora respecto a 2023, cuando estos valores fueron de 46% y 61%, respectivamente.
+
+Los resultados del Barómetro indican una mayor satisfacción respecto a la disponibilidad de capital humano para llenar vacantes (aumentando del 37% en 2023 al 50% en 2024) y una estabilidad en la inversión en capacitación. A pesar de ello, la brecha de género es evidente, ya que el 65% de los operadores cuenta con un 30% o menos de mujeres en su fuerza laboral.
+
+Finalmente, casi el 90% de los operadores planea mantener o aumentar sus recursos humanos y bienes de capital en 2025, lo que, junto con la expectativa de que la demanda de servicios logísticos se mantenga o crezca, proyecta un panorama moderadamente optimista para el sector.</content>
+</page>
+
+<page>
+  <title>Página de resultados | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/pagina-de-resultados?search_api_fulltext=Comercio%20exterior</url>
+  <content>*   [Categorías](https://observatoriologistico.cl/)
+    *   [Logística carretera](https://observatoriologistico.cl/categorias/logistica_carretera)
+    *   [Logística ferroviaria](https://observatoriologistico.cl/categorias/logistica_ferroviaria)
+    *   [Logística marítima](https://observatoriologistico.cl/categorias/logistica_maritima)
+    *   [Logística urbana](https://observatoriologistico.cl/categorias/logistica_urbana)
+    *   [Logística aérea](https://observatoriologistico.cl/categorias/logistica_aerea)
+    *   [Comercio exterior](https://observatoriologistico.cl/categorias/comercio-exterior)
+    *   [Capital humano](https://observatoriologistico.cl/categorias/capital_humano)
+    *   [Energía y medioambiente](https://observatoriologistico.cl/categorias/energia_y_medioambiente)
+    *   [Indicadores logísticos](https://observatoriologistico.cl/categorias/indicadores-logisticos)
+*   [Datos](https://observatoriologistico.cl/datos)
+*   [Reportes de datos](https://observatoriologistico.cl/reportes-de-datos)
+*   [Recursos](https://observatoriologistico.cl/)
+    *   [Encuestas](https://observatoriologistico.cl/encuestas?f%5B0%5D=category_resource_name%3AEncuestas)
+    *   [Estudios](https://observatoriologistico.cl/estudios?f%5B0%5D=category_resource_name%3AEstudios)
+    *   [Planes](https://observatoriologistico.cl/planes?f%5B0%5D=category_resource_name%3APlanes)
+    *   [Metodologías](https://observatoriologistico.cl/metodologias?f%5B0%5D=category_resource_name%3AMetodolog%C3%ADas)
+    *   [Glosario](https://observatoriologistico.cl/glosario)
+*   [Nosotros](https://observatoriologistico.cl/nosotros)
+
+[Iniciar sesión](#)
+
+1.  [](https://observatoriologistico.cl/)
+2.  Página de Resultados
+    
+
+*   [1](https://observatoriologistico.cl/pagina-de-resultados?search_api_fulltext=Comercio%20exterior&page=0)
+*   [2](https://observatoriologistico.cl/pagina-de-resultados?search_api_fulltext=Comercio%20exterior&page=1)
+*   [3](https://observatoriologistico.cl/pagina-de-resultados?search_api_fulltext=Comercio%20exterior&page=2)
+
+Lo más visto
+------------
+
+### **Barómetro de la Logística de Comercio Exterior de Chile**
+
+*   **Actualizado:** 27/01/2025
+*   **Fuente:** Conecta Logística
+*   **Zona geográfica:** País
+
+### Porcentaje del costo logístico en relación al valor del producto de cadenas de importación y exportación
+
+Porcentaje del costo logístico en relación al valor del producto. Desagregación temporal anual.
+
+*   **Fuente:** Conecta Logística
+*   **Zona geográfica:** País
+
+### Inscripciones de nuevos vehículos por tipo a nivel mensual
+
+Se presentan todos los vehículos registrados en el registro civil por medio del Registro de Vehículos Motorizados, esta información es consolidad y disponibilizada por ANAC A.G. Estos datos se desagregan por tipo ("Camión", "Carro Bomba", "Chasis", "Chasis Cabina", "Tractocamión", "Vehículo Comercial" y "Otros").Fuente: ANAC A.G. elaborado con datos del RNVM.
+
+*   **Fuente:** ANAC
+*   **Zona geográfica:** País
+
+### Partición Modal Comercio Exterior Importación y Exportación
+
+Partición Modal de Comercio Exterior de toneladas importadas y exportadas según modo de transporte.
+
+*   **Fuente:** Servicio Nacional de Aduanas
+*   **Zona geográfica:** País
+
+### Estudiantes matriculados en carreras de educación superior asociadas al sector logístico por región, tipo de institución y género
+
+Total de alumnos matriculados en carreras del sector logístico en educación superior por año, tipo de institución, región y género.Se consideran las siguientes carreras: Ingeniería Civil Logística, Ingeniería en Comercio Internacional, Ingeniería en Logística y similares, Ingeniería en Transporte Marítimo, Aéreo y similares, Técnico en Comercio Exterior, Técnico en Logística y similares, Técnico en Transporte.
+
+*   **Fuente:** CNED
+*   **Zona geográfica:** País
+
+### Barómetro de la Logística de Comercio Exterior de Chile
+
+*   **Actualizado:**27/01/2025
+*   **Fuente:** Conecta Logística Conecta Logística
+*   **Zona geográfica:** País
+
+### Valor y carga total de importaciones y exportaciones de Chile en comercio exterior
+
+Volumen y valor anual de las importaciones y exportaciones a nivel nacional.
+
+*   **Fuente:** Servicio Nacional de Aduanas
+*   **Zona geográfica:** País
+
+*   [1](https://observatoriologistico.cl/pagina-de-resultados?search_api_fulltext=Comercio%20exterior&page=0)
+*   [2](https://observatoriologistico.cl/pagina-de-resultados?search_api_fulltext=Comercio%20exterior&page=1)
+*   [3](https://observatoriologistico.cl/pagina-de-resultados?search_api_fulltext=Comercio%20exterior&page=2)
+
+Te invitamos a colaborar con el Observatorio Logístico
+------------------------------------------------------
+
+Evalúanos
+---------
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar archivo
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.
+
+Notifica errores
+----------------
+
+Aporta datos
+------------</content>
+</page>
+
+<page>
+  <title>Diccionario pasos fronterizos | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/datos/diccionario-pasos-fronterizos</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Indicadores ECEE por año, zona y tipo terminal</title>
+  <url>https://observatoriologistico.cl/datos/indicadores-ecee-por-ano-zona-y-tipo-terminal</url>
+  <content>1.  [](https://observatoriologistico.cl/)
+
+3.  Indicadores ECEE Por Año, Zona y Tipo Terminal
+    
+
+*   Conjunto de datos
+
+###### Mostrar / Ocultar columnas
+
+*   Año
+*   Tipo de agregación
+*   Agregación
+*   Indicador
+*   Valor
+*   Unidad de medida
+
+| Año | Tipo de agregación | Agregación | Indicador | Valor | Unidad de medida |
+| --- | --- | --- | --- | --- | --- |
+| 2023 | zona | Austral | emisiones\_equivalentes | 2233888 | kgCO2e |
+| 2023 | zona | Austral | emision\_por\_tonelada | 1.2 | kgCO2e/tonelada |
+| 2023 | zona | Austral | energia\_equivalente | 6601301 | kWhe |
+| 2023 | zona | Austral | energia\_por\_tonelada | 3.5 | kWhe/tonelada |
+| 2023 | zona | Austral | gasto | 463828083 | CLP |
+| 2023 | zona | Austral | gasto\_por\_tonelada | 243.4 | CLP/tonelada |
+| 2023 | zona | Austral | toneladas\_totales | 1905420 | toneladas |
+| 2023 | zona | Centro-Sur | emisiones\_equivalentes | 40362475 | kgCO2e |
+| 2023 | zona | Centro-Sur | emision\_por\_tonelada | 1.2 | kgCO2e/tonelada |
+| 2023 | zona | Centro-Sur | energia\_equivalente | 164741018 | kWhe |
+
+### Descripción
+
+Información de consumo energético, gasto económico y emisiones reportada por los terminales portuarios a través de la Encuesta de Consumo Energético y Emisiones.
+
+### Columnas
+
+*   **Año:** Año asociado al indicador
+*   **Tipo de agregación:** Tipo de agregación del indicador
+*   **Agregación:** Agregación para la cual fue obtenido el indicador
+*   **Indicador:** Indicador
+*   **Valor:** Valor del indicador
+*   **Unidad de medida:** Unidad de medida del indicador
+
+### Metadatos
+
+*   **Descripcion** P047
+*   **Título del proceso** Indicadores ECEE por año, zona y tipo terminal
+*   **Categoría** Energía y medioambiente
+*   **Tipo de elemento** Producto de datos
+*   **Palabras clave** consumo,energia,emision,terminal,portuaria
+*   **Descripción** Información de consumo energético, gasto económico y emisiones reportada por los terminales portuarios a través de la Encuesta de Consumo Energético y Emisiones.
+*   **Entidad responsable** Programa de Desarrollo Logístico, MTT, y Conecta Logística
+*   **Obtención** En primer lugar se seleccionan las variables de consumo y gasto asociado a la red eléctrica nacional, Diésel, gasolina, GLP y GNL para cada terminal. Luego se calcula la energía y emisiones equivalentes de cada terminal. Los terminales tienen una zona y categoría asociada, por lo que finalmente, se obtienen los resultados agregados por zona, tipología de terminal y año.
+*   **Formato original** DB
+*   **Enlace fuente original** No Aplica
+*   **Frecuencia actualización fuente** Anual
+*   **Idioma fuente** Español
+*   **Fecha de incorporación al observatorio** 27/03/2025
+*   **Frecuencia de actualización del observatorio** Anual
+*   **Fecha de próxima actualización en el observatorio**
+*   **Fecha de última actualización en el observatorio**
+*   **Área geográfica cubierta** País
+*   **Mínimo espacio geográfico de desagregación** Macrozona geográfica
+*   **Periodo de tiempo cubierto** Desde 2021, con desfase de 10 meses
+*   **Mínimo periodo de tiempo de desagregación** Meses
+*   **Notas adicionales de los datos** Los datos publicados de 2021, 2022 y 2023 se consideran 23 terminales portuarios. El término kilowatt-hora equivalente (kWhe) se utiliza principalmente para medir la energía de manera comparable entre distintas fuentes, en especial cuando se buscan equivalencias entre energía eléctrica y energía de combustibles fósiles.El kilógramo de CO2 equivalente (kgCO2e) es una métrica usada para comparar el impacto de diferentes gases de efecto invernadero (GEI) en términos de su potencial de calentamiento global (PCG) en relación al dióxido de carbono (CO2). Los combustible reportados por los terminales portuarios emiten diversos gases de efecto invernadero y como cada gas de efecto invernadero tiene un impacto distinto sobre el calentamiento global, se recurre al CO2 equivalente para expresar el impacto de esto gases, como por ejemplo el metano (CH4) o el óxido nitroso (N2O) en términos de CO2.Los factores de energía equivalente y emisión utilizados están publicados en maestro "Maestro factores de energía y emisión usados en ECEE".
+
+Podría interesarte
+------------------</content>
+</page>
+
+<page>
+  <title>Experiencia Electrologística 2022 | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/reportes-de-datos/experiencia-electrologistica-2022</url>
+  <content>1.  [](https://observatoriologistico.cl/)
+
+3.  Experiencia Electrologística 2022
+    
+
+**Índice de contenidos**
+
+Resumen
+-------
+
+En esta página se despliega la información obtenida de los vehículos eléctricos (VE) que participaron de la experiencia Electrologística en noviembre de 2022, en la provincia de Concepción. La información mostrada se construyó a partir de datos que se obtieron de los mismos VE, gracias a empresas de telemetría, y datos que reportan las empresas de transporte que los operaron.
+
+Los conjuntos de datos están accesibles en:
+
+[Enlace a los datos en detalle de la Experiencia Electrologística](https://filesprod.observatoriologistico.cl/assets/frontend-graficos/analisis/experiencia-electrologistica2022/Datos_publicados_VE_Electrologistica-2022.zip)
+
+**Los datos del enlace fueron generados por las empresas de telemetría y por las empresas de transporte y no han pasado por un proceso de validación por parte de Observatorio Logístico.**
+
+Introducción
+------------
+
+La experiencia Electrologística es una iniciativa público-privada que busca promover el uso de vehículos eléctricos (VEs) para la logística urbana, además de generar y disponibilizar datos que faciliten la toma de decisión para quienes quieran sumarse a la electromovilidad. Esta iniciativa es liderada por la **Fundación Conecta Logística**, con el apoyo del **Programa de Desarrollo Logístico del Ministerio de Transportes y Telecomunicaciones, Corfo y la Agencia de Sostenibilidad Energética.** Electrologística ha sido posible gracias al compromiso y el apoyo de empresas proveedoras de vehículos de distribución urbana eléctricos (Andes Motor, Indumotora, Derco Maq), empresas de energía (Enel x way, Copec Voltex), empresas de telemetría (Etrans, Tracktec y Geotab), I. Municipalidad de Concepción y la empresa de infraestructura de carga eléctrica Thunder. Más información sobre la experiencia en [www.electrologistica.cl](https://electrologistica.cl/)
+
+Dashboard por vehículo y día de operación
+-----------------------------------------
+
+### Ficha técnica
+
+#### Sobre la metodología
+
+En esta página se despliega la información obtenida de los vehículos eléctricos (VE) que participaron de la experiencia Electrologística en noviembre de 2022, en la provincia de Concepción. La información mostrada se construyó a partir de datos que se obtieron de los mismos VE, gracias a empresas de telemetría, y datos que reportan las empresas de transporte que los operaron.
+
+Los conjuntos de datos están accesibles en:  
+[Enlace a los datos en detalle de la Experiencia Electrologística](https://filesprod.observatoriologistico.cl/assets/frontend-graficos/analisis/experiencia-electrologistica2022/Datos_publicados_VE_Electrologistica-2022.zip)
+
+**Los datos del enlace fueron generados por las empresas de telemetría y por las empresas de transporte y no han pasado por un proceso de validación por parte del equipo detrás del Observatorio Logístico.**
+
+*   **Fuentes:** Conecta Logística
+*   **Zona geográfica:** Región del Biobío, Chile
+
+Podría interesarte
+------------------</content>
+</page>
+
+<page>
+  <title>Experiencia Electrologística 2021 | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/reportes-de-datos/experiencia-electrologistica-2021</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
+
+<page>
+  <title>Diccionario | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/categorias/diccionario</url>
+  <content>Ayúdanos a mejorar archivo
+
+Ayúdanos a mejorar [Aporta datos](#) o [Notifica errores](#)
+
+Subir archivo
+
+Máximo 1 fichero.  
+límite de 128 MB.  
+Tipos permitidos: txt, rtf, pdf, doc, docx, odt, ppt, pptx, odp, xls, xlsx, ods.</content>
+</page>
