@@ -1,0 +1,2133 @@
+<page>
+  <title>Estudiantes matriculados en carreras de educación superior asociadas al sector logístico por región, tipo de institución y género | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/datos/estudiantes-matriculados-en-carreras-de-educacion-superior-asociadas-al-sector-logistico-por</url>
+  <content>
+Comparte
+
+Total de alumnos matriculados en carreras del sector logístico en educación superior por año, tipo de institución, región y género.Se consideran las siguientes carreras: Ingeniería Civil Logística, Ingeniería en Comercio Internacional, Ingeniería en Logística y similares, Ingeniería en Transporte Marítimo, Aéreo y similares, Técnico en Comercio Exterior, Técnico en Logística y similares, Técnico en Transporte.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Región	Tipo de Institución	Género	Matrículas 1er Año	Matrículas totales	Carrera
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	41	58	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	40	103	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	38	97	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	28	91	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	24	32	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	19	36	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	17	58	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	17	40	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	16	44	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	15	15	Técnico en Logística y similares
+
+  </content>
+</page>
+
+<page>
+  <title>Nivel educacional de trabajadores del sector transporte y almacenamiento | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/datos/nivel-educacional-de-trabajadores-del-sector-transporte-y-almacenamiento</url>
+  <content>
+Comparte
+
+Cantidad estimada y porcentaje de trabajadores según nivel educacional para aquellos que pertenecen a la actividad económica de "Transporte y almacenamiento". Encuesta Nacional de Empleo (ENE).
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Nivel Educacional	Cantidad	Porcentaje
+2020	Básica o primaria	57.394	11,788
+2020	Centro formación técnica	24.149	4,96
+2020	Doctorado	1.406	0,289
+2020	Educación diferencial	34	0,007
+2020	Humanidades	5.108	1,049
+2020	Instituto profesional	43.029	8,837
+2020	Kinder	1.385	0,284
+2020	Magíster	1.826	0,375
+2020	Media común	195.192	40,089
+2020	Media técnico profesional	80.494	16,532
+
+  </content>
+</page>
+
+<page>
+  <title>Cantidad de empresas y de trabajadores del Sector Logístico | Observatorio logístico</title>
+  <url>https://observatoriologistico.cl/datos/cantidad-de-empresas-y-de-trabajadores-del-sector-logistico</url>
+  <content>
+Comparte
+
+Cantidad de empresas y de trabajadores del Sector Logístico. Se cuenta con información del tamaño de la empresa (según clasificación del SII) y actividad económica. Trabajadores se desagrega según sexo.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Actividad económica	Tamaño	Empresas	Trabajadores totales	Hombres	Mujeres
+2005	Almacenamiento	Sin Ventas/Sin Información	10	1	1	0
+2005	Almacenamiento	Pequeña 3	7	99	79	21
+2005	Almacenamiento	Pequeña 2	6	43	35	9
+2005	Almacenamiento	Pequeña 1	9	14	11	3
+2005	Almacenamiento	Micro 3	8	3	3	0
+2005	Almacenamiento	Micro 2	3	0	0	0
+2005	Almacenamiento	Micro 1	8	4	2	2
+2005	Almacenamiento	Mediana 2	11	458	407	50
+2005	Almacenamiento	Mediana 1	7	75	64	11
+2005	Almacenamiento	Grande 4	2	3.270	2.730	541
+
+  </content>
+</page>
+
+<page>
+  <title>Carga internacional transportada en modo aéreo | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/carga-internacional-transportada-en-modo-aereo</url>
+  <content>
+Comparte
+
+Cantidad de carga y toneladas-kilómetro del transporte aéreo internacional. Desagregación anual de entradas y salidas de carga de Chile.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Origen	Destino	Carga Total	 Toneladas-Kilómetro
+1984	CHILE	ESTADOS UNIDOS DE AMÉRICA	5.768	44.234,593
+1984	ESTADOS UNIDOS DE AMÉRICA	CHILE	4.279	30.864,478
+1984	FRANCIA	CHILE	1.558	18.172,512
+1984	ALEMANIA	CHILE	1.145	13.845,34
+1984	BRASIL	CHILE	4.205	11.395,044
+1984	CHILE	FRANCIA	950	11.080,8
+1984	CHILE	BRASIL	3.667	9.856,479
+1984	CHILE	ALEMANIA	670	8.101,64
+1984	ESPAÑA	CHILE	753	8.061,15
+1984	CHILE	CANADÁ	722	7.057,424
+
+  </content>
+</page>
+
+<page>
+  <title>Carga nacional transportada en modo aéreo | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/carga-nacional-transportada-en-modo-aereo</url>
+  <content>
+Comparte
+
+Toneladas y toneladas-km totales de transporte aéreo de cabotaje, según origen y destino.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Origen	Destino	Carga Total	Total de miles de toneladas-km
+1984	SANTIAGO	PUNTA ARENAS	2.186	4.765,48
+1984	PUNTA ARENAS	SANTIAGO	767	1.672,06
+1984	SANTIAGO	ANTOFAGASTA	1.281	1.416,786
+1984	SANTIAGO	IQUIQUE	912	1.304,16
+1984	SANTIAGO	ISLA DE PASCUA	291	1.091,25
+1984	SANTIAGO	ARICA	588	983,136
+1984	ARICA	SANTIAGO	586	979,792
+1984	IQUIQUE	SANTIAGO	347	496,21
+1984	PUERTO MONTT	PUNTA ARENAS	237	310,707
+1984	PUERTO MONTT	COYHAIQUE	471	259,992
+
+  </content>
+</page>
+
+<page>
+  <title>Valor mensual de las importaciones por tipo de bien | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/valor-mensual-de-las-importaciones-por-tipo-de-bien</url>
+  <content>
+Comparte
+
+Importaciones de bienes, por tipo de bien en millones de US$ CIF. Desagregación temporal anual.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Mes	Categoría	Tipo	Valor
+2013	Diciembre	Bienes de capital	Vehículos, Maquinarias y Otros	1.253
+2013	Diciembre	Bienes de consumo	Durables	559,3
+2013	Diciembre	Bienes de consumo	Otros bienes de consumo	621,1
+2013	Diciembre	Bienes de consumo	Semidurables	567,9
+2013	Diciembre	Bienes intermedios	Productos energéticos	1.177,9
+2013	Diciembre	Bienes intermedios	Resto bienes intermedios	2.102,5
+2013	Noviembre	Bienes de capital	Vehículos, Maquinarias y Otros	1.423,4
+2013	Noviembre	Bienes de consumo	Durables	788,2
+2013	Noviembre	Bienes de consumo	Otros bienes de consumo	533,7
+2013	Noviembre	Bienes de consumo	Semidurables	413,5
+
+  </content>
+</page>
+
+<page>
+  <title>Porcentaje del costo logístico en relación al valor del producto de cadenas de importación y exportación | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/porcentaje-del-costo-logistico-en-relacion-al-valor-del-producto-de-cadenas-de-importacion-y</url>
+  <content>
+Comparte
+
+Porcentaje del costo logístico en relación al valor del producto. Desagregación temporal anual.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Operación	Producto	País	Puerto de Chile	Costo logístico promedio	Costo logístico Ad Valorem	 Valor comercializado	 Toneladas totales
+2019	Exportación	Arandano	Alemania	San Antonio	567,811	14,85	112.225,21	29,357
+2019	Exportación	Arandano	China	San Antonio			93.788,4	27,78
+2019	Exportación	Arandano	China	Valparaíso	486,249	13,21	46.845,41	12,727
+2019	Exportación	Arandano	Estados Unidos	San Antonio	530,459	9,89	246.520,66	45,981
+2019	Exportación	Arandano	Países Bajos	San Antonio	503,211	8,95	75.820	13,486
+2019	Exportación	Arandano	Reino Unido	San Antonio	522,147	10,33	153.767	30,42
+2019	Importación	Carne fresca de vacuno	Argentina	Los Libertadores	251,404	2,97	8.884,3	1,05
+2019	Importación	Carne fresca de vacuno	Brasil	Los Libertadores	346,716	8,35	102.859,15	24,775
+2019	Importación	Carne fresca de vacuno	Paraguay	Los Libertadores	312,541	5,52	146.964,43	25,975
+2019	Exportación	Carozos frescos	Brasil	Los Libertadores	226,216	26,61	18.751	22,06
+
+  </content>
+</page>
+
+<page>
+  <title>Envíos postal y courier de ingreso por aeropuerto | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/envios-postal-y-courier-de-ingreso-por-aeropuerto</url>
+  <content>
+Comparte
+
+Cantidad de envíos y peso en Kg de las operaciones de ingreso de carga courier y postal. La carga postal no tiene información del peso. Datos entregados por Aduanas RM vía correo electrónico.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Mes	Tipo	Envíos	Peso
+2019	Enero	Courier	137.017	815.586
+2019	Enero	Postal	1.901.660	
+2019	Febrero	Courier	111.939	669.497
+2019	Febrero	Postal	1.440.396	
+2019	Marzo	Courier	138.790	830.251
+2019	Marzo	Postal	2.037.827	
+2019	Abril	Courier	149.092	886.592
+2019	Abril	Postal	1.710.968	
+2019	Mayo	Courier	165.759	952.188
+2019	Mayo	Postal	2.012.036	
+
+  </content>
+</page>
+
+<page>
+  <title>Inscripción mensual de nuevos remolques y semirremolques | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/inscripcion-mensual-de-nuevos-remolques-y-semirremolques</url>
+  <content>
+Comparte
+
+Se presentan todos los remolques y semirremolques registrado mensualmente en el registro civil por medio del Registro de Vehículos Motorizados, esta información es consolidada y disponibilizada por ANAC A.G. Los datos están agregado a nivel país.Fuente: ANAC A.G. elaborado con datos del RNVM.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Mes	Tipo	Cantidad
+2020	Septiembre	Semi-rremolque	490
+2020	Septiembre	Remolque	61
+2020	Octubre	Semi-rremolque	532
+2020	Octubre	Remolque	89
+2020	Noviembre	Semi-rremolque	532
+2020	Noviembre	Remolque	87
+2020	Mayo	Semi-rremolque	288
+2020	Mayo	Remolque	36
+2020	Marzo	Semi-rremolque	226
+2020	Marzo	Remolque	43
+
+  </content>
+</page>
+
+<page>
+  <title>Inscripciones de nuevos vehículos por tipo a nivel mensual | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/inscripciones-de-nuevos-vehiculos-por-tipo-nivel-mensual</url>
+  <content>
+Comparte
+
+Se presentan todos los vehículos registrados en el registro civil por medio del Registro de Vehículos Motorizados, esta información es consolidad y disponibilizada por ANAC A.G. Estos datos se desagregan por tipo ("Camión", "Carro Bomba", "Chasis", "Chasis Cabina", "Tractocamión", "Vehículo Comercial" y "Otros").Fuente: ANAC A.G. elaborado con datos del RNVM.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Mes	Tipo	Cantidad
+2016	Agosto	Tractocamión	129
+2016	Mayo	Carro Bomba	5
+2016	Diciembre	Chasis Cabina	102
+2016	Marzo	Vehículo Comercial	2.485
+2016	Diciembre	Carro Bomba	2
+2016	Septiembre	Chasis Cabina	119
+2016	Agosto	Otros	22.376
+2016	Abril	Chasis Cabina	71
+2016	Julio	Vehículo Comercial	2.280
+2016	Octubre	Tractocamión	189
+
+  </content>
+</page>
+
+<page>
+  <title>Carga por pasos fronterizos | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/carga-por-pasos-fronterizos</url>
+  <content>
+Comparte
+
+Carga movilizada por carretera a través de pasos fronterizos. Desagregación temporal mensual.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Tipo operación	Paso fronterizo	Carga	Año	Mes
+Ingreso	Paso Visviri	98.510	2023	Enero
+Ingreso	Paso Visviri	3.680	2023	Febrero
+Ingreso	Paso Visviri	30.500	2023	Marzo
+Ingreso	Paso Visviri	4.560	2023	Abril
+Ingreso	Paso Visviri	0	2023	Mayo
+Ingreso	Paso Visviri	0	2023	Junio
+Ingreso	Paso Visviri	3.890	2023	Julio
+Ingreso	Paso Visviri	0	2023	Agosto
+Ingreso	Paso Visviri	0	2023	Septiembre
+Ingreso	Paso Visviri	0	2023	Octubre
+
+  </content>
+</page>
+
+<page>
+  <title>Vehículos por pasos fronterizos | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/vehiculos-por-pasos-fronterizos</url>
+  <content>
+Comparte
+
+Vehículos movilizados por carretera a través de pasos fronterizos. Desagregación temporal mensual.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Tipo Operación	Paso Fronterizo	Vehículos	Tipo de vehículo	Año	Mes
+Ingreso	Paso Visviri	24	Vehículo Particular	2023	Enero
+Ingreso	Paso Visviri	33	Vehículo Particular	2023	Febrero
+Ingreso	Paso Visviri	33	Vehículo Particular	2023	Marzo
+Ingreso	Paso Visviri	38	Vehículo Particular	2023	Abril
+Ingreso	Paso Visviri	28	Vehículo Particular	2023	Mayo
+Ingreso	Paso Visviri	32	Vehículo Particular	2023	Junio
+Ingreso	Paso Visviri	18	Vehículo Particular	2023	Julio
+Ingreso	Paso Visviri	22	Vehículo Particular	2023	Agosto
+Ingreso	Paso Visviri	33	Vehículo Particular	2023	Septiembre
+Ingreso	Paso Visviri	11	Vehículo Particular	2023	Octubre
+
+  </content>
+</page>
+
+<page>
+  <title>Partición Modal Comercio Exterior Importación y Exportación | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/particion-modal-comercio-exterior-importacion-y-exportacion</url>
+  <content>
+Comparte
+
+Partición Modal de Comercio Exterior de toneladas importadas y exportadas según modo de transporte.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Modo	Operación	Carga
+2018	Aéreo/Courier/Postal	EXPORTACIÓN	786.773
+2018	Aéreo/Courier/Postal	IMPORTACIÓN	2.902.327
+2018	Carretero/Terrestre	EXPORTACIÓN	1.255.605
+2018	Carretero/Terrestre	IMPORTACIÓN	3.725.033
+2018	Marítima, Fluvial y Lacustre	EXPORTACIÓN	66.674.448
+2018	Marítima, Fluvial y Lacustre	IMPORTACIÓN	58.739.839
+2018	Oleoductos, Gasoductos	EXPORTACIÓN	155.889
+2018	Oleoductos, Gasoductos	IMPORTACIÓN	375.192
+2018	Otras	EXPORTACIÓN	69
+2018	Tendido Eléctrico	EXPORTACIÓN	11
+
+  </content>
+</page>
+
+<page>
+  <title>Contenedores transferidos en terminales estatales mensualizado | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/contenedores-transferidos-en-terminales-estatales-mensualizado</url>
+  <content>
+Comparte
+
+Cantidad mensual de contenedores transferidos en puertos estatales, según tamaño, condición y tipo de contenedor.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Mes	Empresa portuaria	Terminal	Operación	Tamaño de contenedor	Condición del contenedor	Tipo de contenedor	Número de contenedores	Zona	Categoría del puerto
+Cargando...
+
+  </content>
+</page>
+
+<page>
+  <title>Distancia de la red vial nacional por tipo de carpeta y región | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/distancia-de-la-red-vial-nacional-por-tipo-de-carpeta-y-region</url>
+  <content>
+Comparte
+
+Distancia de la red vial nacional por región y tipo de carpeta.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Región	Distancia	Tipo de carpeta	Tipo de red	Año
+Antofagasta	1.888,543	Asfalto	Red Vial Pavimentada	2023
+Antofagasta	4,955	Hormigón	Red Vial Pavimentada	2023
+Antofagasta	0	Asf./Horm.	Red Vial Pavimentada	2023
+Antofagasta	0	Camino Basicos Intermedios	Red Vial Pavimentada	2023
+Antofagasta	861,476	Capa Protección	Soluciones Básicas	2023
+Antofagasta	929,149	Granular Estabilizado	Soluciones Básicas	2023
+Antofagasta	396,509	Ripio	Red Vial No Pavimentada	2023
+Antofagasta	2.292,161	Tierra	Red Vial No Pavimentada	2023
+Antofagasta	1.921,76	Asfalto	Red Vial Pavimentada	2022
+Antofagasta	4,955	Hormigón	Red Vial Pavimentada	2022
+
+  </content>
+</page>
+
+<page>
+  <title>Tasa de accidentabilidad de vehículos de carga | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/tasa-de-accidentabilidad-de-vehiculos-de-carga</url>
+  <content>
+Comparte
+
+Tasa anual de accidentes asociados al transporte de carga por camión. La tasa de accidentabilidad presenta sus valores en "accidentes anuales por cada 1000 vehículos en circulación"
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Tasa de accidentabilidad
+2008	29,346
+2009	24,453
+2010	26,079
+2011	28,185
+2012	26,603
+2013	29,887
+2014	28,801
+2015	28,668
+2016	31,88
+2017	32,46
+
+  </content>
+</page>
+
+<page>
+  <title>Estudiantes matriculados en carreras de educación superior asociadas al sector logístico por región, tipo de institución y género | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/estudiantes-matriculados-en-carreras-de-educacion-superior-asociadas-al-sector-logistico-por</url>
+  <content>
+Comparte
+
+Total de alumnos matriculados en carreras del sector logístico en educación superior por año, tipo de institución, región y género.Se consideran las siguientes carreras: Ingeniería Civil Logística, Ingeniería en Comercio Internacional, Ingeniería en Logística y similares, Ingeniería en Transporte Marítimo, Aéreo y similares, Técnico en Comercio Exterior, Técnico en Logística y similares, Técnico en Transporte.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Región	Tipo de Institución	Género	Matrículas 1er Año	Matrículas totales	Carrera
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	41	58	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	40	103	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	38	97	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	28	91	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	24	32	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	19	36	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	17	58	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	17	40	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	16	44	Técnico en Comercio Exterior
+2005	Metropolitana	(d) Centros de Formación Técnica	Mujer	15	15	Técnico en Logística y similares
+
+  </content>
+</page>
+
+<page>
+  <title>Tamaño máximo de lote (TEU) transferido en puertos estatales | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/tamano-maximo-de-lote-teu-transferido-en-puertos-estatales</url>
+  <content>
+Comparte
+
+Número máximo de TEUs que fueron transferidos por una nave entre todas las naves que atracaron en el puerto en un año.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Puerto	Año	Valor	Unidad
+Empresa Portuaria Antofagasta	2016	1.906	TEUs
+Empresa Portuaria Antofagasta	2017	1.596	TEUs
+Empresa Portuaria Antofagasta	2018	1.428	TEUs
+Empresa Portuaria Antofagasta	2019	1.774	TEUs
+Empresa Portuaria Antofagasta	2020	1.548	TEUs
+Empresa Portuaria Antofagasta	2021	1.732	TEUs
+Empresa Portuaria Antofagasta	2022	2.094	TEUs
+Empresa Portuaria Antofagasta	2023	1.924	TEUs
+Empresa Portuaria Antofagasta	2024	1.535	TEUs
+Empresa Portuaria Arica	2016	3.549	TEUs
+
+  </content>
+</page>
+
+<page>
+  <title>Contenedores transferidos en terminales estatales | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/contenedores-transferidos-en-terminales-estatales</url>
+  <content>
+Comparte
+
+Cantidad anual de contenedores transferidos en puertos estatales, según tamaño, condición y tipo de contenedor.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Empresa portuaria	Terminal	Operación	Tamaño de contenedor	Condición del contenedor	Tipo de contenedor	Número de contenedores	Zona	Categoría del puerto	Latitud	Longitud
+2016	Antofagasta	ATI	Desembarque	20	Lleno	Dry	4.879	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Desembarque	20	Lleno	Reefer	0	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Desembarque	20	Vacío	Dry	16.569	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Desembarque	20	Vacío	Reefer	0	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Desembarque	40	Lleno	Dry	5.899	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Desembarque	40	Lleno	Reefer	327	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Desembarque	40	Vacío	Dry	5.377	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Desembarque	40	Vacío	Reefer	3	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Embarque	20	Lleno	Dry	23.508	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Embarque	20	Lleno	Reefer	0	Norte	Mixto	-23,651	-70,408
+
+  </content>
+</page>
+
+<page>
+  <title>Toneladas transferidas en terminales estatales | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/toneladas-transferidas-en-terminales-estatales</url>
+  <content>
+Comparte
+
+Toneladas anuales de carga transferida por puertos estatales, según tipo de carga.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Empresa portuaria	Terminal	Operación	Tipo de carga	Toneladas	Zona	Categoría del puerto	Latitud	Longitud
+2016	Antofagasta	ATI	Desembarque	Contenedor	307.260,18	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Desembarque	Fraccionada	43.714,58	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Desembarque	Granel líquido	0	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Desembarque	Granel sólido	288.897,67	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Embarque	Contenedor	874.260,09	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Embarque	Fraccionada	185.916,68	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Embarque	Granel líquido	0	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Embarque	Granel sólido	899.849,87	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Falsos	Contenedor	22.015,55	Norte	Mixto	-23,651	-70,408
+2016	Antofagasta	ATI	Falsos	Fraccionada	103,67	Norte	Mixto	-23,651	-70,408
+
+  </content>
+</page>
+
+<page>
+  <title>Indicadores operacionales en puertos estatales | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/indicadores-operacionales-en-puertos-estatales</url>
+  <content>
+Comparte
+
+Corresponde a indicadores de operación de las empresas portuarias estatales, desagregado por empresa portuaria y tipo de carga.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Informante	Tipo Nave	Número de Naves	Tamaño Lote Promedio	Tamaño Lote Desviación	Ocupación promedio	Ocupación desviación	Eslora promedio	Eslora Desviación
+2016	Empresa Portuaria Austral	Contenedor	54	855,074	305,465	45,679	20,043	132,718	1,481
+2016	Empresa Portuaria Austral	Fraccionada	725	349,452	1.074,247	62,913	272,472	73,732	49,929
+2016	Empresa Portuaria Austral	Mixto	3	5.378,663	3.324,984	34	23,083		
+2016	Empresa Portuaria Chacabuco	Contenedor	39			11,835	6,519	129,872	12,772
+2016	Empresa Portuaria Chacabuco	Fraccionada	788	512,423	897,122	13,968	17,87	51,862	41,319
+2016	Empresa Portuaria Chacabuco	Granel Líquido	60	126	104,969	9,423	7,991	18,033	0,551
+2016	Empresa Portuaria Chacabuco	Granel Sólido	7	10.366,143	506,32	74,976	15,903	157,429	22,545
+2016	Empresa Portuaria Chacabuco	Mixto	9	548,222	525,346	8,436	4,042	93,778	56,659
+2016	Empresa Portuaria Chacabuco	Vehículo	25	9,16	7,904	3,753	11,549	75,4	8,352
+2016	Empresa Portuaria Puerto Montt	Contenedor	2	16	8,485	8,085	4,83	132,5	0,707
+
+  </content>
+</page>
+
+<page>
+  <title>Carga transportadas en ferrocarril mensualizado | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/carga-transportadas-en-ferrocarril-mensualizado</url>
+  <content>
+Comparte
+
+Carga y toneladas-kilómetro transportadas en ferrocarril en Chile.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Mes	Tipo de carga	Toneladas totales	 Toneladas-Kilómetro
+2017	Abril	Contenedor	19.576	2,293
+2017	Abril	Fraccionada	244.797	46,756
+2017	Abril	Granel líquido	309.700	56,838
+2017	Abril	Granel sólido	1.550.287	206,101
+2017	Agosto	Contenedor	29.557	3,556
+2017	Agosto	Fraccionada	293.097	51,292
+2017	Agosto	Granel líquido	352.359	66,375
+2017	Agosto	Granel sólido	1.537.971	211,014
+2017	Diciembre	Contenedor	24.291	3,33
+2017	Diciembre	Fraccionada	252.106	38,572
+
+  </content>
+</page>
+
+<page>
+  <title>Licencias de Conducir A4 y A5 | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/licencias-de-conducir-a4-y-a5</url>
+  <content>
+Comparte
+
+Cantidad de licencias de conducir A4 y A5 emitidas por año y separadas en dos categorías: Nuevas y Renovadas.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Tipo Licencia	 Licencias	 Año	 Categoría
+A4	27.143	2012	nueva
+A4	31.500	2012	renovada
+A4	20.444	2013	nueva
+A4	34.158	2013	renovada
+A4	16.036	2014	nueva
+A4	42.380	2014	renovada
+A4	15.858	2015	nueva
+A4	46.222	2015	renovada
+A4	17.839	2016	nueva
+A4	48.910	2016	renovada
+
+  </content>
+</page>
+
+<page>
+  <title>Valor y carga total de importaciones y exportaciones de Chile en comercio exterior | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/valor-y-carga-total-de-importaciones-y-exportaciones-de-chile-en-comercio-exterior</url>
+  <content>
+Comparte
+
+Volumen y valor anual de las importaciones y exportaciones a nivel nacional.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Operación	Carga	Valor
+2014	Importación	54.587.173.598,45	65.693.229.464,69
+2014	Exportación	66.515.974.625,39	75.142.706.948,23
+2015	Importación	55.280.507.301,94	57.319.732.201,25
+2015	Exportación	63.889.878.284,38	61.923.661.743,57
+2016	Importación	56.814.255.501,14	53.825.373.686,79
+2016	Exportación	64.465.562.711,04	61.845.227.145,5
+2017	Importación	60.743.617.545,76	59.936.509.659,83
+2017	Exportación	64.339.706.847,04	68.139.783.304,61
+2018	Importación	65.878.031.765,11	69.203.876.711,59
+2018	Exportación	68.872.793.709,7	76.162.566.963
+
+  </content>
+</page>
+
+<page>
+  <title>Origen y destino del tráfico marítimo de cabotaje por tipo de carga | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/origen-y-destino-del-trafico-maritimo-de-cabotaje-por-tipo-de-carga</url>
+  <content>
+Comparte
+
+Carga en toneladas en movimiento de cabotaje entre los puertos nacionales diferenciando por tipo de carga. Se identifica, además la región del país donde se ubica el puerto de origen o de destino. Esta información se encuentra anualizada y es publicada en el boletín anual de DIRECTEMAR.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Puerto de Origen	Región de Origen	 Puerto de Destino	 Región de Destino	 Carga General	 Carga granel sólido	 Carga granel líquido	 Año
+Achao	Los Lagos	Puerto Montt	Los Lagos	224	0	0	2023
+Achao	Los Lagos	Quintero	Valparaíso	0	0	500	2023
+Achao	Los Lagos	Puerto Montt	Los Lagos	0	1.570	0	2022
+Achao	Los Lagos	Puerto Natales	Magallanes	0	4.310	0	2022
+Ancud	Los Lagos	Calbuco	Los Lagos	250	0	0	2023
+Antofagasta	Antofagasta	Arica	Arica y Parinacota	1.200	0	0	2023
+Antofagasta	Antofagasta	Huasco	Atacama	5	0	0	2023
+Antofagasta	Antofagasta	San Antonio	Valparaíso	3.000	0	0	2023
+Antofagasta	Antofagasta	Otros Puertos	Sin región	1.500	0	0	2022
+Antofagasta	Antofagasta	San Antonio	Valparaíso	5.874	0	0	2022
+
+  </content>
+</page>
+
+<page>
+  <title>Vehículos de carga con permiso de circulación según tipo | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/vehiculos-de-carga-con-permiso-de-circulacion-segun-tipo</url>
+  <content>
+Comparte
+
+Cantidad de permisos de circulación otorgados por las Municipalidades a vehículos de carga. Esta información se presenta desagregada por tipos de vehículos.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Región	Tipo de Vehículo	Total
+2008	Valparaíso	Otros con motor	819
+2008	Antofagasta	Tractor agrícola	16
+2008	Metropolitana	Tractor agrícola	631
+2008	Aysén	Camión simple	1.155
+2008	Magallanes	Camión simple	1.515
+2008	Antofagasta	Otros con motor	975
+2008	Arica y Parinacota	Remolque y semiremolque	780
+2008	Arica y Parinacota	Tractocamión	566
+2008	Valparaíso	Remolque y semiremolque	4.615
+2008	Los Lagos	Camión simple	7.498
+
+  </content>
+</page>
+
+<page>
+  <title>Nivel educacional de trabajadores del sector transporte y almacenamiento | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/nivel-educacional-de-trabajadores-del-sector-transporte-y-almacenamiento</url>
+  <content>
+Comparte
+
+Cantidad estimada y porcentaje de trabajadores según nivel educacional para aquellos que pertenecen a la actividad económica de "Transporte y almacenamiento". Encuesta Nacional de Empleo (ENE).
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Nivel Educacional	Cantidad	Porcentaje
+2020	Básica o primaria	57.394	11,788
+2020	Centro formación técnica	24.149	4,96
+2020	Doctorado	1.406	0,289
+2020	Educación diferencial	34	0,007
+2020	Humanidades	5.108	1,049
+2020	Instituto profesional	43.029	8,837
+2020	Kinder	1.385	0,284
+2020	Magíster	1.826	0,375
+2020	Media común	195.192	40,089
+2020	Media técnico profesional	80.494	16,532
+
+  </content>
+</page>
+
+<page>
+  <title>Red Vial Nacional de Dobles Calzadas | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/red-vial-nacional-de-dobles-calzadas</url>
+  <content>
+Comparte
+
+Red vial nacional de dobles calzadas, por región y tipo de carpeta. Desagregación temporal anual, desde el año 2017
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Región	Kilómetros	Tipo de carpeta	Año
+Antofagasta	66,002	Asfalto	2018
+Antofagasta	2,798	Hormigón	2018
+Antofagasta	0	Asf./Horm.	2018
+Antofagasta	69,19	Asfalto	2019
+Antofagasta	3	Hormigón	2019
+Antofagasta	0,1	Asf./Horm.	2019
+Antofagasta	69,19	Asfalto	2020
+Antofagasta	3	Hormigón	2020
+Antofagasta	0,1	Asf./Horm.	2020
+Antofagasta	63,88	Asfalto	2021
+
+  </content>
+</page>
+
+<page>
+  <title>Cantidad de empresas y de trabajadores del Sector Logístico | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/cantidad-de-empresas-y-de-trabajadores-del-sector-logistico</url>
+  <content>
+Comparte
+
+Cantidad de empresas y de trabajadores del Sector Logístico. Se cuenta con información del tamaño de la empresa (según clasificación del SII) y actividad económica. Trabajadores se desagrega según sexo.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Actividad económica	Tamaño	Empresas	Trabajadores totales	Hombres	Mujeres
+2005	Almacenamiento	Sin Ventas/Sin Información	10	1	1	0
+2005	Almacenamiento	Pequeña 3	7	99	79	21
+2005	Almacenamiento	Pequeña 2	6	43	35	9
+2005	Almacenamiento	Pequeña 1	9	14	11	3
+2005	Almacenamiento	Micro 3	8	3	3	0
+2005	Almacenamiento	Micro 2	3	0	0	0
+2005	Almacenamiento	Micro 1	8	4	2	2
+2005	Almacenamiento	Mediana 2	11	458	407	50
+2005	Almacenamiento	Mediana 1	7	75	64	11
+2005	Almacenamiento	Grande 4	2	3.270	2.730	541
+
+  </content>
+</page>
+
+<page>
+  <title>Flota Marina Mercante Nacional | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/flota-marina-mercante-nacional</url>
+  <content>
+Comparte
+
+Número de naves que pertenecen a la Flota de la Marina Mercante Nacional con matrícula y bandera chilena, se indica el tipo de nave y la cantidad registrada por año.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Tipo de Nave	 Año	 Cantidad
+Barcaza	2021	3
+Barcaza	2013	33
+Barcaza	2017	32
+Barcaza	2014	34
+Barcaza	2022	2
+Barcaza	2012	32
+Barcaza	2023	1
+Barcaza	2018	30
+Barcaza	2019	3
+Barcaza	2016	32
+
+  </content>
+</page>
+
+<page>
+  <title>Recaladas de Naves Nacionales y Extranjeras | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/recaladas-de-naves-nacionales-y-extranjeras</url>
+  <content>
+Comparte
+
+Número de recaladas anuales de naves extranjeras por puerto, para comercio exterior, cabotaje y servicio regional.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Puerto	Año	Tipo de nave	Región	Recaladas
+Achao	2023	Nacional	Los Lagos	7
+Achao	2021	Nacional	Los Lagos	1
+Achao	2022	Nacional	Los Lagos	3
+Ancud	2023	Nacional	Los Lagos	619
+Ancud	2023	Extranjera	Los Lagos	4
+Ancud	2021	Extranjera	Los Lagos	2
+Ancud	2022	Extranjera	Los Lagos	4
+Ancud	2022	Nacional	Los Lagos	797
+Ancud	2021	Nacional	Los Lagos	523
+Antofagasta	2022	Nacional	Antofagasta	25
+
+  </content>
+</page>
+
+<page>
+  <title>Siniestros de tránsito por tipo de vehículo | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/siniestros-de-transito-por-tipo-de-vehiculo</url>
+  <content>
+Comparte
+
+Siniestros y accidentes registrados por tipo de vehículo en una temporalidad anual. Los siniestros son reportados por Carabineros de Chile y los datos presentados por la CONASET.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Tipo de Vehículo	Siniestros	Fallecidos	Graves	Menos graves	Leves	Año
+Automóvil	24.511	266	1.654	1.900	11.385	2002
+Automóvil	26.323	288	1.671	1.815	12.088	2003
+Automóvil	28.068	330	1.742	1.781	13.079	2004
+Automóvil	28.493	269	1.679	1.644	14.598	2005
+Automóvil	27.793	323	1.597	1.530	14.641	2006
+Automóvil	34.011	347	1.842	1.696	17.203	2007
+Automóvil	36.685	385	1.921	1.755	17.824	2008
+Automóvil	37.613	397	1.790	1.481	17.865	2009
+Automóvil	38.098	349	1.814	1.487	17.923	2010
+Automóvil	41.838	378	1.829	1.517	18.831	2011
+
+  </content>
+</page>
+
+<page>
+  <title>Indicador bilateral de conectividad marítima de servicios de línea para Chile (LSBCI) | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/indicador-bilateral-de-conectividad-maritima-de-servicios-de-linea-para-chile-lsbci</url>
+  <content>
+Comparte
+
+La conectividad del transporte es un determinante crucial de las exportaciones, incluidas las exportaciones bilaterales. El índice de conectividad bilateral del transporte marítimo de línea de la UNCTAD pretende reflejar específicamente la conectividad del transporte marítimo de línea entre pares de países.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Trimestre	País A	País B	LSBCI
+2006	Q1	Chile	Argelia	0,18
+2006	Q1	Chile	Samoa Americana	0,166
+2006	Q1	Chile	Angola	0,182
+2006	Q1	Chile	Antigua y Barbuda	0,164
+2006	Q1	Chile	Argentina	0,263
+2006	Q1	Chile	Aruba	0,188
+2006	Q1	Chile	Australia	0,212
+2006	Q1	Chile	Bahamas	0,245
+2006	Q1	Chile	Bahréin	0,166
+2006	Q1	Chile	Bangladesh	0,168
+
+  </content>
+</page>
+
+<page>
+  <title>Índice LPI (Logistic Performance Index) de países diferenciado por dimensión logística | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/indice-lpi-logistic-performance-index-de-paises-diferenciado-por-dimension-logistica</url>
+  <content>
+Comparte
+
+El LPI evalúa la percepción sobre el desempeño de la logística de comercio exterior mediante 6 dimensiones, evaluadas entre 1 y 5. Este indicador abarca cerca de 160 países.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+País	Año	Dimensión	Indicador	Ranking
+Afganistán	2007	Seguimiento y trazabilidad	1	150
+Afganistán	2007	Puntualidad	1,38	150
+Afganistán	2007	lpi	1,21	150
+Afganistán	2007	Infraestructura	1,1	150
+Afganistán	2007	Envíos internacionales	1,22	150
+Afganistán	2007	Competencia logística	1,25	150
+Afganistán	2007	aduanas	1,3	150
+Afganistán	2010	Seguimiento y trazabilidad	2,37	128
+Afganistán	2010	Puntualidad	2,61	146
+Afganistán	2010	lpi	2,24	143
+
+  </content>
+</page>
+
+<page>
+  <title>Carga transferida en puertos por tipo de carga y región | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/carga-transferida-en-puertos-por-tipo-de-carga-y-region</url>
+  <content>
+Comparte
+
+Toneladas transferidas en los puertos de Chile, por tipo de carga y operación. Desagregación temporal anual. La fuente de esta información es el Boletín anual de Directemar, que en su última edición de 2024 (con datos de 2023) no incluye esta información.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Puerto	Operación	Año	 Tipo de Carga	 Carga	 Región
+Antofagasta	Exportación	2019	Carga general	740.731	Antofagasta
+Antofagasta	Exportación	2019	Granel sólido	757.636	Antofagasta
+Antofagasta	Exportación	2019	Granel líquido	120	Antofagasta
+Antofagasta	Exportación	2019	Carga frigorizado	25	Antofagasta
+Antofagasta	Importación	2019	Carga general	402.867	Antofagasta
+Antofagasta	Importación	2019	Granel sólido	223.620	Antofagasta
+Antofagasta	Importación	2019	Granel líquido	169.362	Antofagasta
+Antofagasta	Importación	2019	Carga frigorizado	4.463	Antofagasta
+Antofagasta	Importación	2018	Granel sólido	200.850	Antofagasta
+Antofagasta	Importación	2018	Granel líquido	215.733	Antofagasta
+
+  </content>
+</page>
+
+<page>
+  <title>Waivers y reputaciones autorizada | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/waivers-y-reputaciones-autorizada</url>
+  <content>
+Comparte
+
+Detalle de los waivers y reputaciones que han sido tramitadas y autorizadas por el Ministerio de Transportes y Telecomunicaciones desde el 2016.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+anio	tramite_type	tramite_id	usuario	nave	imo_nbr	ton_dw	fecha_inicio	fecha_termino	puerto_desembarque	puerto_embarque	observaciones
+2016	WAIVER	3.355	MAERSK CHILE	CARSTEN MAERSK		863	2016-10-05 00:00:00		SAN ANTONIO	SAN VICENTE	
+2016	WAIVER	3.360	MAERSK CHILE	CARSTEN MAERSK		887	2016-10-05 00:00:00		SAN ANTONIO	SAN VICENTE	
+2016	WAIVER	3.359	MAERSK CHILE	CARSTEN MAERSK		891	2016-10-05 00:00:00		SAN ANTONIO	SAN VICENTE	
+2016	REPUTACION	3.455	NAVIERA ULTRANAV LTDA.	JOHANNA C		12.914	2017-01-05 00:00:00	2017-01-20 00:00:00	LAS VENTANAS-MEJILLONES	LAS VENTANAS-MEJILLONES	
+2016	REPUTACION	3.470	NAVIERA CHILENA DEL PAC FICO S.A.	FM PROSPERITY		9.031	2016-12-31 00:00:00	2017-01-10 00:00:00	BARQUITO-ANGAMOS	BARQUITO-ANGAMOS	
+2016	REPUTACION	3.445	NAVIERA ULTRANAV LTDA.	OVERSEAS ANTIGMAR		46.168	2016-12-26 00:00:00	2017-02-26 00:00:00	PUERTOS COSTA CHILENA	PUERTOS COSTA CHILENA	
+2016	REPUTACION	3.457	NAVIERA ULTRANAV LTDA.	SHAMROCK JUPITER		19.837	2016-12-21 00:00:00	2017-01-14 00:00:00	QUINTERO-BARQUITO-MEJILLONES	QUINTERO-BARQUITO-MEJILLONES	
+2016	WAIVER	3.453	TECNOGRUAS	YAGADIFA		897	2016-12-20 00:00:00		VALPARAISO	VALDIVIA	
+2016	REPUTACION	3.451	NAVIERA CHILENA DEL PAC FICO S.A.	BRIO FAITH		9.032	2016-12-15 00:00:00	2016-12-25 00:00:00	BARQUITO-PTO ANGAMOS	BARQUITO-PTO ANGAMOS	
+2016	REPUTACION	3.444	NAVIERA CHILENA DEL PAC FICO S.A.	BRIO FAITH		9.032	2016-12-08 00:00:00	2016-12-22 00:00:00	VALPARAISO-PTO ANGAMOS	VALPARAISO-PTO ANGAMOS	
+
+  </content>
+</page>
+
+<page>
+  <title>Maestro de categorización de empresas logísticas de acuerdo a actividad del SII | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/maestro-de-categorizacion-de-empresas-logisticas-de-acuerdo-actividad-del-sii</url>
+  <content>
+Comparte
+
+Este maestro tiene información de los códigos de actividades del SII que son consideradas actividades logísticas. Considera el código de la actividad con los primeros 6 dígitos.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Código	Descripción	Tipo	 ID
+491.200	Transporte de carga por ferrocarril	Transporte Ferroviario	M004
+492.300	Transporte de carga por carretera	Transporte Carretero	M004
+493.020	Transporte por gasoductos	Transporte Tuberías	M004
+493.090	Otras actividades de transporte por tuberías n.c.p.	Transporte Tuberías	M004
+501.200	Transporte de carga marítimo y de cabotaje	Transporte Marítimo	M004
+502.200	Transporte de carga por vías de navegación interiores	Transporte Marítimo	M004
+512.000	Transporte de carga por vía aérea	Transporte Aéreo	M004
+521.001	Explotación de frigoríficos para almacenamiento y depósito	Almacenamiento	M004
+521.009	Otros servicios de almacenamiento y depósito n.c.p.	Almacenamiento	M004
+522.190	Actividades de servicios vinculadas al transporte terrestre n.c.p.	Transporte Carretero	M004
+
+  </content>
+</page>
+
+<page>
+  <title>Maestro de códigos ISO y caracterización de países de acuerdo al Banco Mundial | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/maestro-de-codigos-iso-y-caracterizacion-de-paises-de-acuerdo-al-banco-mundial</url>
+  <content>
+Comparte
+
+Este maestro tiene el nombre y la respectiva abreviatura según la Norma ISO3166 de los países reconocidos por el Banco Mundial. Además, se asigna la zona geográfica y nivel de ingreso de cada uno de los países.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Código ISO	País	Zona geográfica	Código ISO zona	Nivel de ingresos
+ABW	Aruba	Latin America & Caribbean	LCN	High income
+AFG	Afghanistan	South Asia	SAS	Low income
+AGO	Angola	Sub-Saharan Africa	SSF	Lower middle income
+ALB	Albania	Europe & Central Asia	ECS	Upper middle income
+AND	Andorra	Europe & Central Asia	ECS	High income
+ARE	United Arab Emirates	Middle East & North Africa	MEA	High income
+ARG	Argentina	Latin America & Caribbean	LCN	Upper middle income
+ARM	Armenia	Europe & Central Asia	ECS	Upper middle income
+ASM	American Samoa	East Asia & Pacific	EAS	High income
+ATG	Antigua and Barbuda	Latin America & Caribbean	LCN	High income
+
+  </content>
+</page>
+
+<page>
+  <title>Maestro de códigos arancelarios y clasificación de aduanas | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/maestro-de-codigos-arancelarios-y-clasificacion-de-aduanas</url>
+  <content>
+Comparte
+
+Este maestro tiene información relacionada a los códigos arancelarios definidos en el anexo 51 del compendio de Normas del Servicio Nacional de Aduanas para definir distintos productos de comercio exterior.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Código arancelario	Capítulo arancelario	Categoría combustible	Categoría minería	Categoría importación nivel 1	Categoría importación nivel 2	Categoría exportación nivel 1	Categoría exportación nivel 2
+Cargando...
+
+  </content>
+</page>
+
+<page>
+  <title>Canasta de cadenas logísticas representativas del comercio exterior de Chile seleccionada con metodología de 80/20% | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/canasta-de-cadenas-logisticas-representativas-del-comercio-exterior-de-chile-seleccionada-con</url>
+  <content>
+Comparte
+
+Lista de cadenas logísticas que representan la mayor parte del comercio exterior de Chile. La metodología utilizada para seleccionar las cadenas logísticas más representativas se basa en un enfoque 80/20 aplicado de manera iterativa. Primero, se seleccionan los productos que representan el 80% del valor comercializado. Luego, para cada producto seleccionado, se eligen los países que representan el 80% del valor. Este proceso se repite para los modos de transporte internacional y los puertos chilenos. En cada etapa, se mantiene el 80% más representativo, reduciendo así el número de cadenas a analizar mientras se conserva la mayor parte del valor comercial. Lo anterior permite solo incluir el 2,43% de cadenas que generan el 63% del valor comercializado de Chile con otros países.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Operación	Agrupación	Producto	País	Modo de transporte	Puerto Chile	Tipo de carga	Valor comercializado
+2020	Exportación	Mineros	Cobre y sus manufacturas.	China	Marítimo	PUERTO ANGAMOS	Carga general	4.109,19
+2020	Exportación	Mineros	Minerales metalíferos, escorias y cenizas.	China	Marítimo	CALETA COLOSO	Granel sólido	3.773,39
+2020	Exportación	Mineros	Minerales metalíferos, escorias y cenizas.	China	Marítimo	PATACHE	Granel sólido	2.364,11
+2020	Exportación	Mineros	Cobre y sus manufacturas.	China	Marítimo	VALPARAÍSO	Carga general	1.925,24
+2020	Exportación	Mineros	Cobre y sus manufacturas.	Estados Unidos De América	Marítimo	PUERTO ANGAMOS	Carga general	1.837,67
+2020	Exportación	Mineros	Cobre y sus manufacturas.	China	Marítimo	ANTOFAGASTA	Carga general	1.615,69
+2020	Exportación	Mineros	Minerales metalíferos, escorias y cenizas.	China	Marítimo	VENTANAS	Granel sólido	1.462,34
+2020	Exportación	Mineros	Cobre y sus manufacturas.	China	Marítimo	SAN ANTONIO	Carga general	1.426,73
+2020	Exportación	Mineros	Minerales metalíferos, escorias y cenizas.	Japon	Marítimo	LOS VILOS	Granel sólido	914
+2020	Exportación	Mineros	Minerales metalíferos, escorias y cenizas.	China	Marítimo	LOS VILOS	Granel sólido	853,17
+
+  </content>
+</page>
+
+<page>
+  <title>Peso y valor promedio de las cadenas de exportación | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/peso-y-valor-promedio-de-las-cadenas-de-exportacion</url>
+  <content>
+Comparte
+
+Este producto de datos resume la cantidad de toneladas totales, valor comercializado y valor por tonelada de distintas cadenas de exportación de comercio exterior
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	 Categoría del producto	País de origen	País de destino	Modo de transporte flete internacional	Peso total	Valor comercializado total	Valor por tonelada
+Cargando...
+
+  </content>
+</page>
+
+<page>
+  <title>Indicadores ECEE por año, zona y tipo terminal | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/indicadores-ecee-por-ano-zona-y-tipo-terminal</url>
+  <content>
+Comparte
+
+Información de consumo energético, gasto económico y emisiones reportada por los terminales portuarios a través de la Encuesta de Consumo Energético y Emisiones.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Tipo de agregación	Agregación	Indicador	Valor	Unidad de medida
+2021	zona	Austral	emisiones_equivalentes	1.778.694	kgCO2e
+2021	zona	Austral	emision_por_tonelada	0,8	kgCO2e/tonelada
+2021	zona	Austral	energia_equivalente	5.196.601	kWhe
+2021	zona	Austral	energia_por_tonelada	2,3	kWhe/tonelada
+2021	zona	Austral	gasto	354.390.126	CLP
+2021	zona	Austral	gasto_por_tonelada	155,9	CLP/tonelada
+2021	zona	Austral	toneladas_totales	2.273.862	toneladas
+2021	zona	Centro-Sur	emisiones_equivalentes	59.343.587	kgCO2e
+2021	zona	Centro-Sur	emision_por_tonelada	1,4	kgCO2e/tonelada
+2021	zona	Centro-Sur	energia_equivalente	195.486.900	kWhe
+
+  </content>
+</page>
+
+<page>
+  <title>Diccionario pasos fronterizos | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/diccionario-pasos-fronterizos</url>
+  <content>
+Comparte
+
+Este diccionario guarda distintas formas de cómo podrían escribirse los nombre de pasos fronterizos y entrega la forma estándar.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Valor	 Llave	 ID
+Paso Agua Negra	AGUA NEGRA (Rivadavia)	D018
+Paso Bellavista	RÍO  BELLAVISTA	D018
+Paso Bellavista	RÍO BELLAVISTA	D018
+Paso Bellavista	RíO BELLAVISTA	D018
+Paso Cancosa	CANCOSA	D018
+Paso Cardenal Samoré	CARDENAL SAMORÉ (Puyehue)	D018
+Paso Carirriñe	CARIRRIÑE	D018
+Paso Chungará	CHUNGARÁ	D018
+Paso Colchane	COLCHANE	D018
+Paso Concordia	CONCORDIA (Chacalluta)	D018
+
+  </content>
+</page>
+
+<page>
+  <title>Maestro de puerto y su respectiva región de Chile | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/maestro-de-puerto-y-su-respectiva-region-de-chile</url>
+  <content>
+Comparte
+
+Este maestro contiene la región en la que se ubican los distintos puertos de Chile.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Puerto	Región	ID
+Achao	Los Lagos	M003
+Ancud	Los Lagos	M003
+Antofagasta	Antofagasta	M003
+Arica	Arica y Parinacota	M003
+Cabo Froward	Magallanes	M003
+Cabo Negro	Magallanes	M003
+Calbuco	Los Lagos	M003
+Caldera	Atacama	M003
+Caleta Coloso	Antofagasta	M003
+Castro	Los Lagos	M003
+
+  </content>
+</page>
+
+<page>
+  <title>Maestro de características de terminales de puertos estatales de Chile. | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/maestro-de-caracteristicas-de-terminales-de-puertos-estatales-de-chile</url>
+  <content>
+Comparte
+
+Este maestro tiene información relacionada a los terminales de los puertos estatales de Chile. Contiene la zona, el tipo de carga principal del puerto y su ubicación.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+ID	Terminal	Empresa portuaria	Zona	Tipo de carga principal	Latitud	Longitud
+M006	AGU	Chacabuco	Austral	Vehículo	-45,166	-73,524
+M006	ATI	Antofagasta	Norte	Mixto	-23,651	-70,408
+M006	CIS	Chacabuco	Austral	Vehículo	-44,725	-72,688
+M006	EPA	Antofagasta	Norte	Mixto	-23,651	-70,404
+M006	GAL	Chacabuco	Austral	Mixto	-44,257	-73,208
+M006	ITI	Iquique	Norte	Contenedor	-20,204	-70,157
+M006	MCPCH	Chacabuco	Austral	Mixto	-45,467	-72,82
+M006	MEL	Chacabuco	Austral	Vehículo	-43,898	-73,748
+M006	NAT	Austral	Austral	Fraccionada	-51,73	-72,516
+M006	PUQ	Austral	Austral	Fraccionada	-53,168	-70,908
+
+  </content>
+</page>
+
+<page>
+  <title>Maestro de comunas, provincias y regiones con su respectivo código | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/maestro-de-comunas-provincias-y-regiones-con-su-respectivo-codigo</url>
+  <content>
+Comparte
+
+Este maestro tiene la relación de las regiones con sus respectivas provincias y comunas con nombre y código.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Código Región	Nombre Región	Abreviatura Región	Código Provincia	Nombre Provincia	Código Comuna	Nombre Comuna
+1	Tarapacá	TPCA	11	Iquique	1.101	Iquique
+1	Tarapacá	TPCA	11	Iquique	1.107	Alto Hospicio
+1	Tarapacá	TPCA	14	Tamarugal	1.401	Pozo Almonte
+1	Tarapacá	TPCA	14	Tamarugal	1.402	Camiña
+1	Tarapacá	TPCA	14	Tamarugal	1.403	Colchane
+1	Tarapacá	TPCA	14	Tamarugal	1.404	Huara
+1	Tarapacá	TPCA	14	Tamarugal	1.405	Pica
+2	Antofagasta	ANTOF	21	Antofagasta	2.101	Antofagasta
+2	Antofagasta	ANTOF	21	Antofagasta	2.102	Mejillones
+2	Antofagasta	ANTOF	21	Antofagasta	2.103	Sierra Gorda
+
+  </content>
+</page>
+
+<page>
+  <title>Maestro factores de energía y emisión usados en ECEE | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/maestro-factores-de-energia-y-emision-usados-en-ecee</url>
+  <content>
+Comparte
+
+Maestro que contiene información histórica de factores de emisión y energía que son utilizados para los cálculos de indicadores de la Encuesta de Consumo de Energía y Emisiones en puertos.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+id	Año	Factor	Valor	Unidad de medida
+M012	2021	emision_redelectrica_norteycentrosur	0,391	kgCO2e/kWh
+M012	2021	emision_redelectrica_austral	0,518	kgCO2e/kWh
+M012	2021	energia_diesel	10,96	kWhe/L
+M012	2021	energia_gasolina	9,61	kWhe/L
+M012	2021	energia_gnl	11,02	kWhe/m3
+M012	2021	energia_glp	6,98	kWhe/L
+M012	2021	emision_gasolina	2,16	kgCO2e/L
+M012	2021	emision_diesel	2,71	kgCO2e/L
+M012	2021	emision_gnl	1,98	kgCO2e/m3
+M012	2021	emision_glp	1,59	kgCO2e/L
+
+  </content>
+</page>
+
+<page>
+  <title>Toneladas-Kilómetro de transporte marítimo de cabotaje | Observatorio logístico</title>
+  <url>https://www.observatoriologistico.cl/datos/toneladas-kilometro-de-transporte-maritimo-de-cabotaje</url>
+  <content>
+Comparte
+
+Toneladas- Kilómetro de Transporte marítimo nacional de cabotaje. Valor estimado por DIRECTEMAR y reportado a ITF.
+
+
+
+Contáctanos
+
+Indica cómo evalúas la información mostrada en esta página respecto a:
+
+Ayúdanos a mejorar Aporta datos o Notifica errores
+
+Te recomendamos notificar desde la misma página donde viste el error
+
+ 
+
+Tus datos
+
+Ayúdanos a crear el mayor repositorio de datos sobre logística. Propone nuevos datos a incluir en el Observatorio Logístico
+
+Revisaremos tu propuesta para decidir si podemos incluir esta propuesta.
+
+Tus datos
+
+Sube tu archivo o copia un enlace
+
+Año	Puerto de origen	Puerto de destino	Distancia	Carga total	Toneladas-km
+2022	Puerto Montt	Quemchi	100,01	140	14.001,4
+2022	Castro	Puerto Montt	192,61	100	19.261
+2022	Puerto Montt	Dalcahue	146,308	250	36.577
+2022	Quemchi	Calbuco	64,82	603	39.086,46
+2022	Calbuco	Punta Arenas	1.705,692	32	54.582,144
+2022	Valparaíso	Iquique	1.500,12	40	60.004,8
+2022	Calbuco	Chaitén	131,492	865	113.740,58
+2022	Chaitén	Puerto Montt	172,24	898	154.671,52
+2022	Puerto Montt	Chaitén	172,24	973	167.589,52
+2022	Quellón	Puerto Montt	229,648	1.100	252.612,8
+
+  </content>
+</page>
+
